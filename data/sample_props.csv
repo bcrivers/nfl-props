@@ -1,0 +1,24 @@
+player,market,line,over_odds,under_odds,book
+Josh Allen,pass_yds,239.5,-115,-105,draftkings
+Josh Allen,pass_yds,239.5,-110,-110,fanduel
+Patrick Mahomes,pass_yds,262.5,-112,-108,draftkings
+Bryce Young,pass_yds,251.5,-110,-110,draftkings
+Jared Goff,pass_tds,1.5,-140,115,draftkings
+James Cook,rush_yds,79.5,-115,-105,draftkings
+James Cook,rush_yds,79.5,-110,-110,fanduel
+Derrick Henry,rush_yds,92.5,-110,-110,fanduel
+Jonathan Taylor,rush_yds,81.5,-110,-110,draftkings
+Kenneth Walker III,rush_yds,74.5,-115,-105,draftkings
+Jahmyr Gibbs,rush_rec_yds,99.5,-110,-110,draftkings
+Jaxon Smith-Njigba,rec_yds,88.5,-115,-105,draftkings
+Brock Bowers,rec_yds,68.5,-110,-110,fanduel
+Brock Bowers,receptions,6.5,120,-145,fanduel
+Zay Flowers,rec_yds,66.5,-110,-110,draftkings
+Amon-Ra St. Brown,receptions,6.5,-120,100,draftkings
+Bijan Robinson,anytime_td,0.5,-150,,draftkings
+James Cook,anytime_td,0.5,-135,,fanduel
+Puka Nacua,rec_yds,84.5,-110,-110,draftkings
+Made Up Player,rec_yds,40.5,-110,-110,draftkings
+Eric Saubert,anytime_td,0.5,1450,,draftkings
+Connor Heyward,anytime_td,0.5,2000,,draftkings
+Tank Bigsby,anytime_td,0.5,950,,draftkings
