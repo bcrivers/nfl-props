@@ -312,3 +312,88 @@ def price_parlay(legs: list[dict]) -> dict:
     games = [l.get("game") or l.get("team") for l in legs]
     return dict(p=p, odds=M.decimal_to_american(dec), fair_odds=M.prob_to_american(p),
                 ev=p * (dec - 1) - (1 - p), same_game=len(set(games)) < len(games))
+
+
+TEAM_ABBR = {
+    "Arizona Cardinals": "ARI", "Atlanta Falcons": "ATL", "Baltimore Ravens": "BAL", "Buffalo Bills": "BUF",
+    "Carolina Panthers": "CAR", "Chicago Bears": "CHI", "Cincinnati Bengals": "CIN", "Cleveland Browns": "CLE",
+    "Dallas Cowboys": "DAL", "Denver Broncos": "DEN", "Detroit Lions": "DET", "Green Bay Packers": "GB",
+    "Houston Texans": "HOU", "Indianapolis Colts": "IND", "Jacksonville Jaguars": "JAX", "Kansas City Chiefs": "KC",
+    "Las Vegas Raiders": "LV", "Los Angeles Chargers": "LAC", "Los Angeles Rams": "LA", "Miami Dolphins": "MIA",
+    "Minnesota Vikings": "MIN", "New England Patriots": "NE", "New Orleans Saints": "NO", "New York Giants": "NYG",
+    "New York Jets": "NYJ", "Philadelphia Eagles": "PHI", "Pittsburgh Steelers": "PIT", "San Francisco 49ers": "SF",
+    "Seattle Seahawks": "SEA", "Tampa Bay Buccaneers": "TB", "Tennessee Titans": "TEN", "Washington Commanders": "WAS",
+}
+
+
+def _team_scoring(schedule: pl.DataFrame, season: int, week: int) -> dict:
+    """Points scored and allowed per team so far this season (regular season, played games)."""
+    g = schedule.filter((pl.col("game_type") == "REG") & (pl.col("week") < week)
+                        & pl.col("home_score").is_not_null())
+    rows = []
+    for r in g.iter_rows(named=True):
+        rows.append(dict(team=r["home_team"], pf=r["home_score"], pa=r["away_score"]))
+        rows.append(dict(team=r["away_team"], pf=r["away_score"], pa=r["home_score"]))
+    if not rows:
+        return {}
+    df = pl.DataFrame(rows).group_by("team").agg(
+        pl.col("pf").mean().alias("pf"), pl.col("pa").mean().alias("pa"), pl.len().alias("n"))
+    return {r["team"]: r for r in df.iter_rows(named=True)}
+
+
+def score_game_lines(lines: pl.DataFrame, schedule: pl.DataFrame, season: int, week: int) -> pl.DataFrame:
+    """Reference view: market line next to a simple model total and win probability.
+
+    NOT an edge finder. Game lines are the sharpest markets in sports; a box-score model will not
+    beat them. This exists so you see context (implied win %, model's total) when you bet.
+    """
+    import math
+    sc = _team_scoring(schedule, season, week)
+    lg_pts = 0.0
+    if sc:
+        lg_pts = sum(v["pf"] for v in sc.values()) / len(sc)
+    else:
+        lg_pts = LEAGUE_TEAM_TOTAL
+
+    # Consensus market numbers across books, then best price per side
+    agg = lines.group_by(["home", "away"]).agg(
+        pl.col("ml_home").median(), pl.col("ml_away").median(),
+        pl.col("spread_home").median(), pl.col("total").median(),
+        pl.col("commence").first(), pl.col("book").n_unique().alias("n_books"),
+    )
+    out = []
+    for r in agg.iter_rows(named=True):
+        home, away = TEAM_ABBR.get(r["home"], r["home"]), TEAM_ABBR.get(r["away"], r["away"])
+        h, a = sc.get(home), sc.get(away)
+        # Model projected points: average of (team offense) and (opponent defense allowed)
+        if h and a:
+            proj_home = (h["pf"] + a["pa"]) / 2
+            proj_away = (a["pf"] + h["pa"]) / 2
+        else:
+            proj_home = proj_away = lg_pts
+        proj_home += 1.3  # modest home-field bump
+        proj_away -= 1.3
+        model_total = proj_home + proj_away
+        model_margin = proj_home - proj_away  # positive = home favored
+        # Win prob from margin: NFL games have ~13.5 pt SD on final margin
+        model_home_wp = 0.5 * (1 + math.erf(model_margin / (13.5 * math.sqrt(2))))
+
+        # Market no-vig win prob from the moneylines
+        mkt_home_wp = None
+        if r["ml_home"] is not None and r["ml_away"] is not None:
+            ph, pa_ = M.american_to_prob(r["ml_home"]), M.american_to_prob(r["ml_away"])
+            mkt_home_wp = M.devig(ph, pa_)[0]
+
+        out.append(dict(
+            game=f"{away} @ {home}", commence=r["commence"], n_books=r["n_books"],
+            spread_home=r["spread_home"], total=r["total"],
+            ml_home=int(r["ml_home"]) if r["ml_home"] is not None else None,
+            ml_away=int(r["ml_away"]) if r["ml_away"] is not None else None,
+            mkt_home_wp=None if mkt_home_wp is None else round(mkt_home_wp, 3),
+            model_total=round(model_total, 1),
+            model_spread_home=round(-model_margin, 1),  # shown in spread convention (favorite negative)
+            model_home_wp=round(model_home_wp, 3),
+            games_played=(h["n"] if h else 0),
+        ))
+    df = pl.DataFrame(out, infer_schema_length=None)
+    return df.sort("commence")

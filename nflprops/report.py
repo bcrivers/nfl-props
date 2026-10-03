@@ -16,7 +16,7 @@ def _pct(x):
 
 
 def write(scored: pl.DataFrame, env: pl.DataFrame, season: int, week: int, stats_through: str,
-          min_edge: float, out_dir: Path) -> tuple[Path, Path]:
+          min_edge: float, out_dir: Path, game_lines: pl.DataFrame = None) -> tuple[Path, Path]:
     out_dir.mkdir(parents=True, exist_ok=True)
     csv_path = out_dir / f"slate_{season}_w{week:02d}.csv"
     md_path = out_dir / f"slate_{season}_w{week:02d}.md"
@@ -42,6 +42,22 @@ def write(scored: pl.DataFrame, env: pl.DataFrame, season: int, week: int, stats
              "chance. edge = p_model minus p_fair. EV = expected profit per $1 at the listed odds. "
              "rank = row in the CSV, use it with the parlay command.")
     L.append("")
+
+    if game_lines is not None and not game_lines.is_empty():
+        L.append("## Game lines (reference only)")
+        L.append("Market line next to a simple model estimate. Game lines are the sharpest markets in "
+                 "sports: treat the model columns as context, not edges. Win % is the no-vig market "
+                 "chance the home team wins.")
+        L.append("| Game | Spread (home) | Total | ML (away / home) | Home win % | Model total | Model spread | Model home win % |")
+        L.append("|---|---|---|---|---|---|---|---|")
+        for g in game_lines.iter_rows(named=True):
+            sp = "" if g["spread_home"] is None else f"{g['spread_home']:+g}"
+            msp = "" if g["model_spread_home"] is None else f"{g['model_spread_home']:+g}"
+            ml = f"{_fmt_odds(g['ml_away'])} / {_fmt_odds(g['ml_home'])}"
+            hw = _pct(g["mkt_home_wp"]); mhw = _pct(g["model_home_wp"])
+            note = " (early season, thin data)" if g["games_played"] < 3 else ""
+            L.append(f"| {g['game']} | {sp} | {g['total']} | {ml} | {hw} | {g['model_total']} | {msp} | {mhw}{note} |")
+        L.append("")
 
     L.append("## Game environment")
     L.append("| Game | Total | Implied (away / home) | Roof | Wind |")

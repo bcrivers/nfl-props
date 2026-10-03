@@ -75,3 +75,56 @@ def fetch_props(markets=None, books=None, days_ahead: int = 7, sunday_only: bool
         if col not in wide.columns:
             wide = wide.with_columns(pl.lit(None, dtype=pl.Int64).alias(col))
     return wide.rename({"over": "over_odds", "under": "under_odds"})
+
+
+GAME_MARKETS = ["h2h", "spreads", "totals"]
+
+
+def fetch_game_lines(books=None, days_ahead: int = 7, sunday_only: bool = False) -> pl.DataFrame:
+    """Moneyline (h2h), spreads, and totals for the slate. One cheap call across all games."""
+    key = os.environ.get("ODDS_API_KEY")
+    if not key:
+        raise SystemExit("Set ODDS_API_KEY first (free key at https://the-odds-api.com).")
+    books = books or DEFAULT_BOOKS
+    r = requests.get(
+        f"{BASE}/odds",
+        params={"apiKey": key, "regions": "us", "markets": ",".join(GAME_MARKETS),
+                "oddsFormat": "american", "bookmakers": ",".join(books)},
+        timeout=30,
+    )
+    r.raise_for_status()
+    rem = r.headers.get("x-requests-remaining")
+    if rem is not None:
+        print(f"Odds API credits remaining this month: {rem}")
+    now = datetime.now(timezone.utc)
+    horizon = now + timedelta(days=days_ahead)
+
+    rows = []
+    for ev in r.json():
+        start = datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00"))
+        if not (now < start < horizon):
+            continue
+        if sunday_only and start.astimezone(timezone(timedelta(hours=-4))).weekday() != 6:
+            continue
+        home, away = ev["home_team"], ev["away_team"]
+        for bk in ev.get("bookmakers", []):
+            rec = dict(home=home, away=away, book=bk["key"], commence=ev["commence_time"],
+                       ml_home=None, ml_away=None, spread_home=None, spread_home_odds=None,
+                       spread_away=None, spread_away_odds=None, total=None, over_odds=None, under_odds=None)
+            for mk in bk.get("markets", []):
+                for o in mk.get("outcomes", []):
+                    nm = o["name"]
+                    if mk["key"] == "h2h":
+                        if nm == home: rec["ml_home"] = o["price"]
+                        elif nm == away: rec["ml_away"] = o["price"]
+                    elif mk["key"] == "spreads":
+                        if nm == home: rec["spread_home"], rec["spread_home_odds"] = o.get("point"), o["price"]
+                        elif nm == away: rec["spread_away"], rec["spread_away_odds"] = o.get("point"), o["price"]
+                    elif mk["key"] == "totals":
+                        rec["total"] = o.get("point")
+                        if nm == "Over": rec["over_odds"] = o["price"]
+                        elif nm == "Under": rec["under_odds"] = o["price"]
+            rows.append(rec)
+    if not rows:
+        raise SystemExit("No game lines returned.")
+    return pl.DataFrame(rows)

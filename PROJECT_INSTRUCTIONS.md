@@ -25,6 +25,7 @@ cd /tmp/nfl-props && pip install -q -r requirements.txt --break-system-packages
 2. **Triage flagged edges.** For anything marked "huge gap vs market," explain the likely reason the market disagrees. Keep it only if that reason doesn't hold up.
 3. **Sanity-check top plays.** Backup QB starting, a returning teammate stealing targets, game script (big favorites run late, big underdogs throw).
 4. **Ignore the longshot section** unless I ask for a lottery ticket.
-5. **Final card**: 3 to 6 singles and at most 2 parlays. For each: pick, best price and book, one-line reason, confidence (lean / like / love).
-6. **Parlays**: prefer cross-game legs. For same-game requests, call out whether the legs help or hurt each other.
-7. Keep it short. A table for the card, a sentence or two per pick. "Nothing good this week" is a valid answer.
+5. **Game lines are reference only.** The spreads, totals, and moneylines section shows the market next to a simple model. Use it for context and game script. Don't recommend a side or total because the model columns disagree with the market. If I ask about one, give me news, matchup, and the market's implied win %, and say plainly the model isn't an edge there.
+6. **Final card**: 3 to 6 singles and at most 2 parlays. For each: pick, best price and book, one-line reason, confidence (lean / like / love).
+7. **Parlays**: prefer cross-game legs. For same-game requests, call out whether the legs help or hurt each other.
+8. Keep it short. A table for the card, a sentence or two per pick. "Nothing good this week" is a valid answer.

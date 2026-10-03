@@ -25,12 +25,19 @@ def _context(args):
 
 
 def cmd_odds(args):
-    from .odds import fetch_props
+    from .odds import fetch_props, fetch_game_lines
     season, week, _ = _context(args)
     df = fetch_props(markets=args.markets, books=args.books, sunday_only=args.sunday)
     path = ROOT / "data" / f"props_{season}_w{week:02d}.csv"
     df.write_csv(path)
-    print(f"Saved {df.height} lines -> {path}")
+    print(f"Saved {df.height} prop lines -> {path}")
+    try:
+        gl = fetch_game_lines(books=args.books, sunday_only=args.sunday)
+        gpath = ROOT / "data" / f"games_{season}_w{week:02d}.csv"
+        gl.write_csv(gpath)
+        print(f"Saved {gl.height} game-line rows -> {gpath}")
+    except Exception as e:  # game lines are a bonus; never block the props pull
+        print(f"Game lines skipped: {e}")
     return path
 
 
@@ -43,10 +50,15 @@ def cmd_score(args, props_path=None):
     stats = data.load_stats(season, args.refresh)
     env = data.game_environment(sched, week)
     inj = data.load_injuries(season, args.refresh)
+    gpath = ROOT / "data" / f"games_{season}_w{week:02d}.csv"
+    game_lines = None
+    if gpath.exists():
+        gl = pl.read_csv(gpath, infer_schema_length=None)
+        game_lines = model.score_game_lines(gl, sched, season, week)
     last = stats.sort(["season", "week"]).tail(1).row(0, named=True)
     scored = model.score(props, stats, env, inj, season, week)
     md, csv = report.write(scored, env, season, week, f"{last['season']} week {last['week']}",
-                           args.min_edge, ROOT / "reports")
+                           args.min_edge, ROOT / "reports", game_lines=game_lines)
     print(f"Report: {md}\nFull table: {csv}")
     if "ev" in scored.columns:
         top = scored.filter((pl.col("ev") > 0) & (pl.col("flags").fill_null("") == "")
