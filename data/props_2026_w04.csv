@@ -1,65 +1,124 @@
 player,market,line,book,game,commence,over_odds,under_odds
-Marcus Mariota,pass_yds,213.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-111
-Terry McLaurin,rec_yds,50.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-111,-113
-Stefon Diggs,rec_yds,45.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-114,-110
-Chig Okonkwo,rec_yds,22.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-111,-113
-Antonio Williams,rec_yds,17.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-110,-114
-Stefon Diggs,receptions,4.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,115,-147
-Terry McLaurin,receptions,4.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,119,-152
-Chig Okonkwo,receptions,2.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-123,-104
-Antonio Williams,receptions,1.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-157,123
-Jacory Croskey-Merritt,rush_yds,60.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-112,-112
-Marcus Mariota,rush_yds,26.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-108,-117
-Jonathan Taylor,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-320,
+Jonathan Taylor,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-330,
+Jacory Croskey-Merritt,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-105,
+Josh Downs,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,155,
+Tyler Warren,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,160,
+Stefon Diggs,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,200,
+Marcus Mariota,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,370,
+Chig Okonkwo,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,380,
+Kaytron Allen,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,390,
+Daniel Jones,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,400,
+Laquon Treadwell,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,400,
+Antonio Williams,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,500,
+Indianapolis Colts D/ST,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,550,
+Washington Commanders D/ST,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
+Treylon Burks,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
+Dyami Brown,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
+Darius Slayton,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,650,
+Austin Ekeler,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,650,
+Ben Sinnott,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
+Jaylin Lane,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,800,
+John Bates,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,800,
+Nick Westbrook-Ikhine,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,850,
+Mo Alie-Cox,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,900,
+Seth McGowan,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,900,
+Drew Ogletree,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1100,
+Deion Burks,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1400,
+Ashton Dulin,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1400,
+Anthony Gould,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1600,
+DJ Giddens,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1800,
+Luke McCaffrey,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1900,
+Colson Yankoff,anytime_td,0.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2200,
+Daniel Jones,pass_yds,221.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-111,-113
+Josh Downs,rec_yds,71.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-112,-112
+Tyler Warren,rec_yds,54.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-112,-112
+Laquon Treadwell,rec_yds,23.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-110,-114
+Jonathan Taylor,rec_yds,19.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-109,-115
+Darius Slayton,rec_yds,14.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-109,-115
+Josh Downs,receptions,6.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-137,107
+Tyler Warren,receptions,5.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-137,107
+Jonathan Taylor,receptions,2.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-131,103
+Laquon Treadwell,receptions,1.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-161,126
+Darius Slayton,receptions,1.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,162,-209
+Jonathan Taylor,rush_yds,91.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-114,-110
+Daniel Jones,rush_yds,11.5,draftkings,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-116,-108
+Jonathan Taylor,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-310,
 Jacory Croskey-Merritt,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,100,
-Tyler Warren,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,155,
-Josh Downs,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,165,
-Terry McLaurin,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,250,
-Stefon Diggs,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,260,
-Laquon Treadwell,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,340,
-Darius Slayton,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,370,
-Marcus Mariota,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,380,
-Chig Okonkwo,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,380,
-Daniel Jones,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,400,
-Kaytron Allen,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,410,
-Antonio Williams,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
-Washington Commanders Defense,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
-Jaylin Lane,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
-Treylon Burks,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
-Austin Ekeler,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
+Josh Downs,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,155,
+Tyler Warren,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,165,
+Stefon Diggs,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,190,
+Chig Okonkwo,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,360,
+Marcus Mariota,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,390,
+Laquon Treadwell,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,400,
+Daniel Jones,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,410,
+Kaytron Allen,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,420,
+Antonio Williams,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,450,
+Treylon Burks,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
+Darius Slayton,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,650,
+Dyami Brown,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,650,
+Washington Commanders Defense,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,750,
 Indianapolis Colts Defense,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,750,
-Mo Alie-Cox,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,750,
-Drew Ogletree,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,750,
-Seth McGowan,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,800,
-Dyami Brown,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,900,
+Austin Ekeler,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,750,
+Mo Alie-Cox,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,950,
+Seth McGowan,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,950,
+Nick Westbrook-Ikhine,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,950,
+Jaylin Lane,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1100,
 Ashton Dulin,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1100,
 Deion Burks,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1100,
-Ben Sinnott,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1200,
-John Bates,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1500,
-Anthony Gould,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1600,
-DJ Giddens,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1600,
-Luke McCaffrey,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2500,
-Colson Yankoff,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2700,
-Daniel Jones,pass_yds,222.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
-Stefon Diggs,rec_yds,46.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
-Terry McLaurin,rec_yds,49.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
-Chig Okonkwo,rec_yds,23.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
-Antonio Williams,rec_yds,17.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
-Chig Okonkwo,receptions,2.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-130,-102
-Stefon Diggs,receptions,4.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,112,-148
-Terry McLaurin,receptions,4.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,124,-166
-Antonio Williams,receptions,1.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-148,112
+John Bates,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1400,
+Ben Sinnott,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1600,
+Anthony Gould,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2000,
+DJ Giddens,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2000,
+Drew Ogletree,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2200,
+Luke McCaffrey,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,2700,
+Colson Yankoff,anytime_td,0.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,3000,
+Daniel Jones,pass_yds,219.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Jonathan Taylor,rec_yds,19.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Tyler Warren,rec_yds,53.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Darius Slayton,rec_yds,13.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Josh Downs,rec_yds,71.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Laquon Treadwell,rec_yds,26.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Tyler Warren,receptions,5.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-130,-102
+Laquon Treadwell,receptions,1.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-158,118
+Josh Downs,receptions,6.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-158,118
+Jonathan Taylor,receptions,2.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-130,-102
+Darius Slayton,receptions,1.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,168,-230
 Daniel Jones,rush_yds,10.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Jonathan Taylor,rush_yds,90.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+Seth McGowan,rush_yds,5.5,fanduel,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-113,-113
+John Bates,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1000,
+Stefon Diggs,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,220,
+Chig Okonkwo,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,390,
+Kaytron Allen,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,425,
 Indianapolis Colts D/ST,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,400,
+Mo Alie-Cox,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1150,
+Jonathan Taylor,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-295,
+Ben Sinnott,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1150,
+Josh Downs,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,145,
+Dyami Brown,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
+Seth McGowan,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,700,
+Tyler Warren,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,150,
+Laquon Treadwell,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,425,
+Daniel Jones,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,425,
+Antonio Williams,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,360,
+Marcus Mariota,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,310,
 Washington Commanders D/ST,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,650,
-Daniel Jones,pass_yds,223.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-120,-110
-Marcus Mariota,pass_yds,216.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
-Jonathan Taylor,rec_yds,18.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-120,-110
-Jonathan Taylor,receptions,2.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-150,110
-Daniel Jones,rush_yds,10.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-120,-110
-Marcus Mariota,rush_yds,29.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,100,-135
-Jonathan Taylor,rush_yds,87.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
-Jacory Croskey-Merritt,rush_yds,59.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
+Jacory Croskey-Merritt,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,110,
+Treylon Burks,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,475,
+Drew Ogletree,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1200,
+Ashton Dulin,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,600,
+Austin Ekeler,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,475,
+Deion Burks,anytime_td,0.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,1600,
+Daniel Jones,pass_yds,218.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-140,105
+Jonathan Taylor,rec_yds,18.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-110,-120
+Tyler Warren,rec_yds,53.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
+Josh Downs,rec_yds,72.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
+Laquon Treadwell,rec_yds,22.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
+Jonathan Taylor,receptions,2.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-140,105
+Tyler Warren,receptions,5.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-118,-111
+Laquon Treadwell,receptions,1.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-155,115
+Jonathan Taylor,rush_yds,91.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-115,-115
+Daniel Jones,rush_yds,10.5,betmgm,Indianapolis Colts @ Washington Commanders,2026-10-04T13:30:00Z,-110,-120
 Cam Skattebo,anytime_td,0.5,draftkings,Arizona Cardinals @ New York Giants,2026-10-04T17:00:00Z,-135,
 Jeremiyah Love,anytime_td,0.5,draftkings,Arizona Cardinals @ New York Giants,2026-10-04T17:00:00Z,-135,
 Trey McBride,anytime_td,0.5,draftkings,Arizona Cardinals @ New York Giants,2026-10-04T17:00:00Z,140,
@@ -271,7 +330,7 @@ Michael Carter,anytime_td,0.5,draftkings,Tennessee Titans @ Baltimore Ravens,202
 Rasheen Ali,anytime_td,0.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3500,
 David Martin-Robinson,anytime_td,0.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,4000,
 Kylen Granson,anytime_td,0.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,5000,
-Lamar Jackson,pass_yds,217.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-111,-113
+Lamar Jackson,pass_yds,214.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-111,-113
 Cam Ward,pass_yds,187.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-112,-112
 Zay Flowers,rec_yds,71.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-110
 Carnell Tate,rec_yds,42.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-115,-109
@@ -298,64 +357,68 @@ Tony Pollard,rush_yds,47.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-1
 Lamar Jackson,rush_yds,30.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-112,-112
 Tyjae Spears,rush_yds,14.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-115,-109
 Cam Ward,rush_yds,10.5,draftkings,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-109,-115
-Derrick Henry,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-220,
-Zay Flowers,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,130,
-Mark Andrews,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,150,
-Tony Pollard,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,200,
+Derrick Henry,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-230,
+Zay Flowers,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,140,
+Mark Andrews,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,160,
+Tony Pollard,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,195,
 Lamar Jackson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,230,
-Rashod Bateman,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,250,
-Carnell Tate,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,350,
+Rashod Bateman,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,260,
+Carnell Tate,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,340,
 Wan'Dale Robinson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,450,
 Justice Hill,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,500,
 Gunnar Helm,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,500,
-Tyjae Spears,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,550,
 Cam Ward,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,600,
-Devontez Walker,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,650,
+Tyjae Spears,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,650,
+Tennessee Titans Defense,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,650,
+Devontez Walker,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,700,
 Chris Moore,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,700,
 Elic Ayomanor,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,700,
 Baltimore Ravens Defense,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,700,
-Tennessee Titans Defense,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,700,
-Matthew Hibner,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,850,
-Durham Smythe,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1000,
-Elijah Sarratt,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1000,
+Matthew Hibner,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,900,
+LaJohntay Wester,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1000,
+Durham Smythe,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1100,
+Elijah Sarratt,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1100,
 Calvin Ridley,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1200,
-LaJohntay Wester,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1200,
 Daniel Bellinger,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1600,
 Chimere Dike,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1600,
-Josh Cuevas,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1800,
-Rasheen Ali,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,2200,
-Julius Chestnut,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3000,
-Michael Carter,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3000,
-David Martin-Robinson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3500,
-Kylen Granson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3500,
-Lamar Jackson,pass_yds,220.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Josh Cuevas,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1900,
+Rasheen Ali,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3000,
+David Martin-Robinson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,4000,
+Julius Chestnut,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,4000,
+Michael Carter,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,4000,
+Kylen Granson,anytime_td,0.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,4000,
+Lamar Jackson,pass_yds,213.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Cam Ward,pass_yds,187.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Derrick Henry,rec_yds,7.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Tony Pollard,rec_yds,9.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Rashod Bateman,rec_yds,27.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Rashod Bateman,rec_yds,26.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Zay Flowers,rec_yds,71.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Carnell Tate,rec_yds,42.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Carnell Tate,rec_yds,43.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Gunnar Helm,rec_yds,18.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Tyjae Spears,rec_yds,13.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Wan'Dale Robinson,rec_yds,38.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Justice Hill,rec_yds,11.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Tyjae Spears,rec_yds,12.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Wan'Dale Robinson,rec_yds,37.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Mark Andrews,rec_yds,36.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Elic Ayomanor,rec_yds,20.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Calvin Ridley,rec_yds,6.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Elic Ayomanor,rec_yds,19.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Calvin Ridley,rec_yds,5.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Elic Ayomanor,receptions,1.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-154,116
 Mark Andrews,receptions,3.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-158,118
 Zay Flowers,receptions,5.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,112,-148
 Gunnar Helm,receptions,2.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-148,112
+Derrick Henry,receptions,1.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,154,-210
 Tony Pollard,receptions,1.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-158,118
-Wan'Dale Robinson,receptions,3.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-162,122
-Tyjae Spears,receptions,2.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,118,-158
-Rashod Bateman,receptions,2.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,116,-154
-Carnell Tate,receptions,4.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-108,-122
+Justice Hill,receptions,1.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-148,112
+Wan'Dale Robinson,receptions,3.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-172,128
+Tyjae Spears,receptions,2.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,120,-160
+Rashod Bateman,receptions,2.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,134,-180
+Carnell Tate,receptions,4.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,102,-136
 Calvin Ridley,receptions,1.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,182,-250
-Lamar Jackson,rush_yds,32.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Lamar Jackson,rush_yds,31.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Tony Pollard,rush_yds,48.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Tyjae Spears,rush_yds,15.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Derrick Henry,rush_yds,96.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
-Cam Ward,rush_yds,9.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Tyjae Spears,rush_yds,14.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Derrick Henry,rush_yds,97.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Justice Hill,rush_yds,17.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
+Cam Ward,rush_yds,10.5,fanduel,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,-114,-114
 Tennessee Titans D/ST,anytime_td,0.5,betmgm,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,650,
 David Martin-Robinson,anytime_td,0.5,betmgm,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,3500,
 Josh Cuevas,anytime_td,0.5,betmgm,Tennessee Titans @ Baltimore Ravens,2026-10-04T17:00:00Z,1700,
@@ -410,20 +473,20 @@ Tyjae Spears,rush_yds,14.5,betmgm,Tennessee Titans @ Baltimore Ravens,2026-10-04
 James Cook,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-140,
 Josh Allen,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-140,
 Rhamondre Stevenson,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,135,
-DJ Moore,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,150,
-Dalton Kincaid,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,170,
+DJ Moore,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,155,
+Dalton Kincaid,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,160,
 TreVeyon Henderson,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,215,
-Khalil Shakir,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,235,
 Hunter Henry,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,235,
+Khalil Shakir,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,240,
 Mack Hollins,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,260,
 Romeo Doubs,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,265,
+Keon Coleman,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,370,
 DeMario Douglas,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,370,
-Keon Coleman,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,380,
 Drake Maye,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,475,
 Ty Johnson,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,500,
 Buffalo Bills D/ST,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,550,
-Dawson Knox,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,550,
 Joshua Palmer,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,550,
+Dawson Knox,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,600,
 New England Patriots D/ST,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,700,
 Kyle Williams,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,700,
 Eli Raridon,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,900,
@@ -440,7 +503,7 @@ Keleki Latu,anytime_td,0.5,draftkings,New England Patriots @ Buffalo Bills,2026-
 Josh Allen,pass_yds,245.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-111,-113
 Drake Maye,pass_yds,233.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-112,-112
 Dalton Kincaid,rec_yds,52.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-111,-113
-DJ Moore,rec_yds,50.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-110,-114
+DJ Moore,rec_yds,49.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-113,-111
 Mack Hollins,rec_yds,42.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-113,-111
 Romeo Doubs,rec_yds,38.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-113,-111
 Khalil Shakir,rec_yds,38.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-111,-113
@@ -454,7 +517,7 @@ Dawson Knox,rec_yds,9.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-
 James Cook,rec_yds,7.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-115,-109
 TreVeyon Henderson,rec_yds,7.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-110,-114
 Dalton Kincaid,receptions,4.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,102,-130
-DJ Moore,receptions,4.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,130,-167
+DJ Moore,receptions,4.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,131,-168
 Khalil Shakir,receptions,3.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-150,117
 Mack Hollins,receptions,3.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-112
 Hunter Henry,receptions,3.5,draftkings,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-106,-120
@@ -505,40 +568,40 @@ Reggie Gilliam,anytime_td,0.5,fanduel,New England Patriots @ Buffalo Bills,2026-
 Keleki Latu,anytime_td,0.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,2700,
 Josh Allen,pass_yds,242.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Drake Maye,pass_yds,231.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+DJ Moore,rec_yds,49.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 James Cook,rec_yds,7.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Mack Hollins,rec_yds,43.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Romeo Doubs,rec_yds,39.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Kyle Williams,rec_yds,12.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Dawson Knox,rec_yds,9.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Dalton Kincaid,rec_yds,49.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Khalil Shakir,rec_yds,38.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Keon Coleman,rec_yds,12.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Rhamondre Stevenson,rec_yds,18.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 DeMario Douglas,rec_yds,27.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 TreVeyon Henderson,rec_yds,7.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Ty Johnson,rec_yds,12.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Hunter Henry,rec_yds,31.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-DJ Moore,rec_yds,49.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Romeo Doubs,rec_yds,39.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Kyle Williams,rec_yds,12.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Dawson Knox,rec_yds,9.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Dalton Kincaid,rec_yds,49.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Khalil Shakir,rec_yds,38.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Dalton Kincaid,receptions,4.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-108,-122
-TreVeyon Henderson,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,134,-180
-DeMario Douglas,receptions,2.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-136,102
-Romeo Doubs,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,112,-148
-Kyle Williams,receptions,0.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-205,152
-DJ Moore,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-158,118
 Hunter Henry,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-108,-122
 Ty Johnson,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-138,104
+Dalton Kincaid,receptions,4.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-108,-122
+TreVeyon Henderson,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,134,-180
 Dawson Knox,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,152,-205
+DeMario Douglas,receptions,2.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-136,102
+Romeo Doubs,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,112,-148
 James Cook,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-108,-122
 Rhamondre Stevenson,receptions,2.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-128,-104
 Keon Coleman,receptions,1.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-102,-130
+Kyle Williams,receptions,0.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-205,152
 Khalil Shakir,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-154,116
+DJ Moore,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-158,118
 Mack Hollins,receptions,3.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-130,-102
-TreVeyon Henderson,rush_yds,39.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-James Cook,rush_yds,84.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Josh Allen,rush_yds,31.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Rhamondre Stevenson,rush_yds,32.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
-Ty Johnson,rush_yds,4.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Drake Maye,rush_yds,26.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+TreVeyon Henderson,rush_yds,39.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+James Cook,rush_yds,84.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
+Ty Johnson,rush_yds,4.5,fanduel,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,-114,-114
 Kyle Williams,anytime_td,0.5,betmgm,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,575,
 Ty Johnson,anytime_td,0.5,betmgm,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,425,
 Mack Hollins,anytime_td,0.5,betmgm,New England Patriots @ Buffalo Bills,2026-10-04T17:00:00Z,240,
@@ -665,10 +728,10 @@ Garrett Wilson,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T1
 Kyle Monangai,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,180,
 Luther Burden III,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,210,
 Kenyon Sadiq,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,230,
-Colston Loveland,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,250,
+Colston Loveland,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,240,
 Rome Odunze,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,330,
-Isaiah Davis,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,340,
 Kalif Raymond,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,350,
+Isaiah Davis,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,350,
 Tyson Bagent,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,430,
 Isaiah Williams,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,440,
 Cole Kmet,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,600,
@@ -676,12 +739,12 @@ Chicago Bears Defense,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-
 New York Jets Defense,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,700,
 Geno Smith,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,800,
 Jeremy Ruckert,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,800,
-Malik McClain,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1300,
+Malik McClain,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1200,
+Jelani Woods,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1600,
 Roschon Johnson,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1600,
-Jelani Woods,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1700,
 Zavion Thomas,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1700,
-Jahdae Walker,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1700,
-Sam Roush,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1800,
+Jahdae Walker,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1800,
+Sam Roush,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,1900,
 Jamaal Pritchett,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,2000,
 Andrew Beck,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,2700,
 Kene Nwangwu,anytime_td,0.5,fanduel,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,2700,
@@ -770,18 +833,18 @@ Braelon Allen,rush_yds,54.5,betmgm,New York Jets @ Chicago Bears,2026-10-04T17:0
 Isaiah Davis,rush_yds,20.5,betmgm,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,-115,-115
 D'Andre Swift,rush_yds,62.5,betmgm,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,-115,-115
 Kyle Monangai,rush_yds,41.5,betmgm,New York Jets @ Chicago Bears,2026-10-04T17:00:00Z,-111,-120
-Chase Brown,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-160,
+Chase Brown,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-155,
 Ja'Marr Chase,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-115,
 Bhayshul Tuten,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,100,
 Tee Higgins,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,140,
 Parker Washington,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,140,
 Jakobi Meyers,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,245,
 Brenton Strange,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,265,
-Mike Gesicki,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,290,
+Mike Gesicki,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,285,
 Chris Rodriguez Jr.,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,310,
 Brian Thomas Jr,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,340,
-Trevor Lawrence,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,350,
-Samaje Perine,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,400,
+Trevor Lawrence,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,340,
+Samaje Perine,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,380,
 Dohnte Meyers,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,425,
 Cincinnati Bengals D/ST,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,550,
 Jacksonville Jaguars D/ST,anytime_td,0.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,550,
@@ -828,10 +891,10 @@ Bhayshul Tuten,receptions,1.5,draftkings,Jacksonville Jaguars @ Cincinnati Benga
 Samaje Perine,receptions,1.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-113,-112
 Drew Sample,receptions,1.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,121,-154
 Josh Cameron,receptions,1.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,161,-207
-Chase Brown,rush_yds,60.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-110,-114
-Bhayshul Tuten,rush_yds,56.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-112,-112
+Chase Brown,rush_yds,60.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-111,-113
+Bhayshul Tuten,rush_yds,55.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-115,-109
 Chris Rodriguez Jr.,rush_yds,19.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-113,-111
-Samaje Perine,rush_yds,15.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-107,-117
+Samaje Perine,rush_yds,15.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-111,-113
 Trevor Lawrence,rush_yds,14.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-110,-114
 Joe Burrow,rush_yds,8.5,draftkings,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-113,-111
 Chase Brown,anytime_td,0.5,fanduel,Jacksonville Jaguars @ Cincinnati Bengals,2026-10-04T17:00:00Z,-170,
@@ -1172,7 +1235,7 @@ Payne Durham,anytime_td,0.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,
 Bauer Sharp,anytime_td,0.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,4500,
 Ko Kieft,anytime_td,0.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,5500,
 Jordan Love,pass_yds,243.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-112,-112
-Jalon Daniels,pass_yds,174.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-112,-112
+Jalon Daniels,pass_yds,172.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-113,-111
 Christian Watson,rec_yds,65.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-112,-112
 Matthew Golden,rec_yds,58.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-113,-111
 Tucker Kraft,rec_yds,42.5,draftkings,Green Bay Packers @ Tampa Bay Buccaneers,2026-10-04T17:00:00Z,-112,-112
@@ -1362,10 +1425,10 @@ Darius Cooper,rec_yds,18.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,202
 Saquon Barkley,rec_yds,15.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-111,-113
 Kyren Williams,rec_yds,14.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-117,-107
 Johnny Mundt,rec_yds,8.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-106,-118
-Davante Adams,receptions,4.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-148,116
+Davante Adams,receptions,4.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-154,120
 Dontayvion Wicks,receptions,3.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-155,121
 Makai Lemon,receptions,3.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-107
-Zach Ertz,receptions,2.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-101,-127
+Zach Ertz,receptions,2.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-104,-122
 Saquon Barkley,receptions,2.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,122,-156
 Kyren Williams,receptions,2.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,125,-159
 Darius Cooper,receptions,2.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,151,-194
@@ -1374,7 +1437,7 @@ Saquon Barkley,rush_yds,69.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2
 Kyren Williams,rush_yds,58.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-112,-112
 Blake Corum,rush_yds,39.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-110,-114
 Jalen Hurts,rush_yds,26.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-109
-Tank Bigsby,rush_yds,10.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-113,-111
+Tank Bigsby,rush_yds,10.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-109,-115
 Matthew Stafford,rush_yds,0.5,draftkings,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-101,-125
 Kyren Williams,anytime_td,0.5,fanduel,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,
 Saquon Barkley,anytime_td,0.5,fanduel,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,115,
@@ -1431,67 +1494,67 @@ Saquon Barkley,rush_yds,69.5,fanduel,Los Angeles Rams @ Philadelphia Eagles,2026
 Jalen Hurts,rush_yds,26.5,fanduel,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-114,-114
 Blake Corum,rush_yds,39.5,fanduel,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-114,-114
 Blake Corum,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,250,
-Tyler Higbee,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,325,
-Davante Adams,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,115,
+Tyler Higbee,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,320,
+Davante Adams,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,110,
 Saquon Barkley,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,110,
-Makai Lemon,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,375,
-Kyren Williams,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-140,
+Makai Lemon,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,360,
+Kyren Williams,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-145,
 Jalen Hurts,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,170,
-Will Shipley,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,825,
+Will Shipley,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,850,
 Los Angeles Rams D/ST,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,600,
 Dontayvion Wicks,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,230,
-Philadelphia Eagles D/ST,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,550,
+Philadelphia Eagles D/ST,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,575,
 Zach Ertz,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,500,
 Johnny Mundt,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,950,
 Konata Mumpfield,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,700,
-Puka Nacua,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,150,
+Puka Nacua,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,120,
 Colby Parkinson,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,380,
-Davis Allen,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,800,
-Matthew Stafford,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1600,
+Davis Allen,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,825,
+Matthew Stafford,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1550,
 Tank Bigsby,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,950,
-Darius Cooper,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,600,
+Darius Cooper,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,575,
 Max Klare,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1350,
 E.J. Jenkins,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,2500,
-Elijah Moore,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1450,
+Elijah Moore,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1400,
 Britain Covey,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,3000,
-Jordan Whittington,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1150,
-Matthew Stafford,pass_yds,248.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
-Jalen Hurts,pass_yds,188.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
-Davante Adams,rec_yds,64.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
-Kyren Williams,rec_yds,13.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-111
+Jordan Whittington,anytime_td,0.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,1050,
+Matthew Stafford,pass_yds,250.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
+Jalen Hurts,pass_yds,191.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
+Kyren Williams,rec_yds,14.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-110
 Saquon Barkley,rec_yds,12.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-135,100
 Johnny Mundt,rec_yds,9.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-110,-120
-Zach Ertz,rec_yds,18.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-110
-Makai Lemon,rec_yds,34.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-111
+Makai Lemon,rec_yds,35.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
+Davante Adams,rec_yds,65.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
 Darius Cooper,rec_yds,18.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
+Zach Ertz,rec_yds,19.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
 Dontayvion Wicks,rec_yds,54.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
-Kyren Williams,receptions,2.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,135,-185
+Kyren Williams,receptions,2.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,115,-155
 Davante Adams,receptions,4.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-140,105
 Saquon Barkley,receptions,2.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,115,-155
 Johnny Mundt,receptions,1.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,175,-235
-Makai Lemon,receptions,3.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-110,-120
-Darius Cooper,receptions,1.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-160,120
+Makai Lemon,receptions,3.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-111,-118
+Darius Cooper,receptions,1.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-165,125
 Zach Ertz,receptions,2.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,105,-140
-Dontayvion Wicks,receptions,3.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-160,120
+Dontayvion Wicks,receptions,3.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-165,125
+Kyren Williams,rush_yds,60.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-111,-118
 Jalen Hurts,rush_yds,26.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
 Blake Corum,rush_yds,43.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
-Kyren Williams,rush_yds,59.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
 Tank Bigsby,rush_yds,10.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-120,-110
 Saquon Barkley,rush_yds,70.5,betmgm,Los Angeles Rams @ Philadelphia Eagles,2026-10-04T17:00:00Z,-115,-115
 Aaron Jones,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-155,
 Jordan Addison,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,115,
-T.J. Hockenson,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,160,
+T.J. Hockenson,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,155,
 Ollie Gordon II,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,285,
-Kyler Murray,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,330,
-Jaylen Wright,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,340,
-Jauan Jennings,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,400,
+Jaylen Wright,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,320,
+Kyler Murray,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,340,
+Jauan Jennings,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,390,
 Malik Washington,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,400,
 Minnesota Vikings D/ST,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,475,
 Malik Willis,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,475,
 Tai Felton,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,500,
 Miami Dolphins D/ST,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,650,
-Greg Dulcich,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,650,
-DeeJay Dallas,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,750,
+DeeJay Dallas,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,700,
+Greg Dulcich,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,700,
 Chris Bell,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,750,
 Myles Price,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,900,
 Gavin Bartholomew,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,950,
@@ -1501,20 +1564,20 @@ Max Bredeson,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-1
 Ryan Miller,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,1900,
 Will Kacmarek,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,2000,
 DJ Herman,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,3000,
-Jalen Tolbert,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,4000,
 Seydou Traore,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,4000,
+Jalen Tolbert,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,4500,
 Justin Joly,anytime_td,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,4500,
 Kyler Murray,pass_yds,201.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
-Malik Willis,pass_yds,172.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-111,-113
-Jordan Addison,rec_yds,62.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
+Malik Willis,pass_yds,171.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
+Jordan Addison,rec_yds,63.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-111,-113
 Malik Washington,rec_yds,41.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-111,-113
 T.J. Hockenson,rec_yds,38.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-110,-114
 Chris Bell,rec_yds,34.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-110,-114
 Greg Dulcich,rec_yds,31.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-109,-116
-Jauan Jennings,rec_yds,26.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-116,-108
+Jauan Jennings,rec_yds,27.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
 Aaron Jones,rec_yds,19.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-113,-111
 Kevin Coleman Jr.,rec_yds,17.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-111,-113
-Tai Felton,rec_yds,15.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-108,-117
+Tai Felton,rec_yds,14.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-117,-107
 Ollie Gordon II,rec_yds,6.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
 Jaylen Wright,rec_yds,5.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-116,-108
 Ryan Miller,rec_yds,3.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-111,-112
@@ -1532,9 +1595,9 @@ Jaylen Wright,receptions,1.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-
 Ryan Miller,receptions,0.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-141,110
 Aaron Jones,rush_yds,68.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
 Malik Willis,rush_yds,31.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-112,-112
-Jaylen Wright,rush_yds,29.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-116,-108
-Ollie Gordon II,rush_yds,24.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-116,-108
-Kyler Murray,rush_yds,21.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-116,-108
+Jaylen Wright,rush_yds,30.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-108,-116
+Ollie Gordon II,rush_yds,25.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-108,-116
+Kyler Murray,rush_yds,22.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-110,-114
 Malik Washington,rush_yds,4.5,draftkings,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-123,-102
 Aaron Jones,anytime_td,0.5,fanduel,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,-155,
 Jordan Addison,anytime_td,0.5,fanduel,Miami Dolphins @ Minnesota Vikings,2026-10-04T20:05:00Z,130,
@@ -1680,7 +1743,7 @@ Christian McCaffrey,rec_yds,41.5,draftkings,Denver Broncos @ San Francisco 49ers
 Courtland Sutton,rec_yds,40.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-109,-115
 Pat Bryant,rec_yds,23.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-112,-112
 RJ Harvey,rec_yds,22.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-113,-111
-Evan Engram,rec_yds,16.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-116,-108
+Evan Engram,rec_yds,17.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-110,-114
 Kyle Juszczyk,rec_yds,7.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-118,-107
 Troy Franklin,rec_yds,5.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-113,-111
 Adam Trautman,rec_yds,5.5,draftkings,Denver Broncos @ San Francisco 49ers,2026-10-04T20:25:00Z,-105,-119
@@ -1817,7 +1880,7 @@ Emmett Johnson,receptions,1.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,
 Cody White,receptions,1.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,170,-220
 Kenneth Walker III,rush_yds,86.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-113,-111
 Ashton Jeanty,rush_yds,58.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-109,-115
-Mike Washington Jr.,rush_yds,17.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-112,-112
+Mike Washington Jr.,rush_yds,16.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-117,-107
 Patrick Mahomes,rush_yds,15.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-114,-110
 Emmett Johnson,rush_yds,15.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,-112,-112
 Kirk Cousins,rush_yds,0.5,draftkings,Kansas City Chiefs @ Las Vegas Raiders,2026-10-04T20:25:00Z,106,-133
@@ -1946,25 +2009,25 @@ Omarion Hampton,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawk
 Emanuel Wilson,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,125,
 George Holani,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,145,
 AJ Barner,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,255,
-Ladd McConkey,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,285,
-Quentin Johnston,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,295,
-Oronde Gadsden II,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,320,
+Ladd McConkey,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,275,
+Quentin Johnston,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,280,
 Cooper Kupp,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,330,
 Rashid Shaheed,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,340,
-Tre Harris,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,400,
-Keaton Mitchell,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,450,
+Oronde Gadsden II,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,370,
+Tre Harris,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,390,
+Keaton Mitchell,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,475,
 Seattle Seahawks D/ST,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,500,
-Justin Herbert,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,600,
+Justin Herbert,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,550,
 Los Angeles Chargers D/ST,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,700,
 Tory Horton,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,750,
 Sam Darnold,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1000,
 Eric Saubert,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1100,
 Elijah Arroyo,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1200,
-Marquez Valdes-Scantling,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1200,
 Nick Kallerup,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1500,
 Derius Davis,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1500,
 Kimani Vidal,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1700,
-Hayden Rucci,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1800,
+Hayden Rucci,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1700,
+Marquez Valdes-Scantling,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1800,
 Montorie Foster Jr.,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,2200,
 Brady Russell,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,3000,
 Alec Ingold,anytime_td,0.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,4500,
@@ -1980,7 +2043,7 @@ George Holani,rec_yds,10.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,20
 Keaton Mitchell,rec_yds,10.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-109,-115
 Jaxon Smith-Njigba,receptions,7.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,117,-149
 AJ Barner,receptions,3.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,132,-169
-Oronde Gadsden II,receptions,2.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-148,116
+Oronde Gadsden II,receptions,2.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-142,111
 Cooper Kupp,receptions,2.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,104,-132
 Rashid Shaheed,receptions,2.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,147,-188
 George Holani,receptions,1.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-127,100
@@ -1991,51 +2054,56 @@ Omarion Hampton,rush_yds,46.5,draftkings,Los Angeles Chargers @ Seattle Seahawks
 Justin Herbert,rush_yds,20.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-112,-112
 Keaton Mitchell,rush_yds,17.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-110,-114
 Sam Darnold,rush_yds,4.5,draftkings,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-116,-109
-Jaxon Smith-Njigba,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-125,
-Omarion Hampton,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,105,
+Jaxon Smith-Njigba,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-120,
+Omarion Hampton,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,110,
 Emanuel Wilson,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,135,
 George Holani,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,140,
-AJ Barner,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,260,
-Ladd McConkey,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,290,
-Quentin Johnston,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,290,
-Oronde Gadsden II,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,300,
-Rashid Shaheed,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,310,
+AJ Barner,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,270,
+Rashid Shaheed,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,300,
 Cooper Kupp,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,330,
-Tre Harris,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,400,
+Ladd McConkey,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,330,
+Quentin Johnston,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,370,
+Oronde Gadsden II,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,400,
 Keaton Mitchell,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,550,
-Justin Herbert,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,550,
+Justin Herbert,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,600,
+Tre Harris,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,550,
 Seattle Seahawks Defense,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,700,
 Tory Horton,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,800,
 Sam Darnold,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,900,
 Eric Saubert,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1000,
-Marquez Valdes-Scantling,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1000,
 Brenen Thompson,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1200,
 Derius Davis,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1200,
 Los Angeles Chargers Defense,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1300,
 Nick Kallerup,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1300,
 Elijah Arroyo,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1300,
-Hayden Rucci,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1400,
 Kimani Vidal,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,1600,
+Marquez Valdes-Scantling,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,2000,
 Montorie Foster Jr.,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,2000,
+Hayden Rucci,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,2200,
 Brady Russell,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,3500,
-Alec Ingold,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,4000,
+Alec Ingold,anytime_td,0.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,3500,
 Justin Herbert,pass_yds,199.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Sam Darnold,pass_yds,233.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-AJ Barner,rec_yds,30.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Tory Horton,rec_yds,11.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-Cooper Kupp,rec_yds,23.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-Jaxon Smith-Njigba,rec_yds,91.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Keaton Mitchell,rec_yds,10.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-George Holani,rec_yds,9.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Oronde Gadsden II,rec_yds,27.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Rashid Shaheed,rec_yds,21.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-AJ Barner,receptions,3.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,124,-166
+AJ Barner,rec_yds,30.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+Cooper Kupp,rec_yds,23.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+Jaxon Smith-Njigba,rec_yds,91.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+George Holani,rec_yds,9.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+Ladd McConkey,rec_yds,47.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+Quentin Johnston,rec_yds,35.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
+Oronde Gadsden II,receptions,2.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-148,112
+Quentin Johnston,receptions,2.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-188,140
 Keaton Mitchell,receptions,1.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
-Tory Horton,receptions,1.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,142,-192
 Rashid Shaheed,receptions,2.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,140,-188
-George Holani,receptions,1.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-125,-106
 Jaxon Smith-Njigba,receptions,6.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-138,104
 Cooper Kupp,receptions,2.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,116,-154
+Ladd McConkey,receptions,3.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-172,128
+AJ Barner,receptions,3.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,124,-166
+Tory Horton,receptions,1.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,142,-192
+George Holani,receptions,1.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-125,-106
 Justin Herbert,rush_yds,20.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Keaton Mitchell,rush_yds,16.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
 Omarion Hampton,rush_yds,45.5,fanduel,Los Angeles Chargers @ Seattle Seahawks,2026-10-04T20:25:00Z,-114,-114
