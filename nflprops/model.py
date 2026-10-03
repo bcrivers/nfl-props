@@ -22,7 +22,9 @@ POSITIONS = ["QB", "RB", "WR", "TE"]
 ASSUMED_TD_VIG = 1.08   # anytime TD rarely posts a "No"; assume ~8% hold to estimate fair price
 TD_PRIOR_CARRIES = 80   # TD-per-touch rates regress toward position average by this many phantom touches
 TD_PRIOR_TARGETS = 50
-LONGSHOT_ODDS = 400     # anytime TDs longer than this stay out of top plays and parlays
+LONGSHOT_ODDS = 400
+# Final probability = market baseline nudged by the model (books know depth charts and inactives).
+MODEL_WEIGHT = 0.30     # anytime TDs longer than this stay out of top plays and parlays
 
 
 def opponent_factors(stats: pl.DataFrame, season: int) -> dict:
@@ -213,8 +215,9 @@ def score(props: pl.DataFrame, stats: pl.DataFrame, env: pl.DataFrame, injuries:
             out.append(base | dict(team=team, note="no qualifying games"))
             continue
 
-        p_over = model_prob_over(market, pr["proj"], pr["sd"], row["line"])
+        p_raw = model_prob_over(market, pr["proj"], pr["sd"], row["line"])
         fair_over = row["fair_over"]
+        p_over = p_raw if fair_over is None else MODEL_WEIGHT * p_raw + (1 - MODEL_WEIGHT) * fair_over
         sides = []
         for side, p_model, odds, book, fair in (
             ("over", p_over, row["best_over"], row["best_over_book"], fair_over),
@@ -235,6 +238,17 @@ def score(props: pl.DataFrame, stats: pl.DataFrame, env: pl.DataFrame, injuries:
         ir = inj_by_id.get(pid)
         if ir and ir.get("report_status"):
             flags.append(f"{ir['report_status']} ({ir.get('report_primary_injury') or '?'})")
+        cur_vals = pg.filter(pl.col("season") == season)[spec["stat"]].drop_nulls()
+        prev_vals = pg.filter(pl.col("season") == season - 1)[spec["stat"]].drop_nulls()
+        if market != "anytime_td" and len(cur_vals) >= 2 and len(prev_vals) >= 4:
+            c_avg, p_avg = cur_vals.mean(), prev_vals.mean()
+            if max(c_avg, p_avg) > 0 and abs(c_avg - p_avg) / max(c_avg, p_avg) > 0.4:
+                flags.append(f"role change ({p_avg:.0f} last season -> {c_avg:.0f} this season)")
+        if market != "anytime_td" and row["line"] > 0 and not (0.6 <= pr["proj"] / row["line"] <= 1.67):
+            flags.append("line far from history: new role?")
+        if (market in ("rec_yds", "rush_yds", "rush_rec_yds") and row["line"] < 15.5) or \
+           (market == "receptions" and row["line"] < 1.5):
+            flags.append("fringe player line")
         if pr["n_cur"] < 3:
             flags.append(f"only {pr['n_cur']} game{'s' if pr['n_cur'] != 1 else ''} this season")
         if best["edge"] is not None and (abs(best["edge"]) > 0.15 or
