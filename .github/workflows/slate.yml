@@ -11,6 +11,11 @@ on:
         type: choice
         options: [score, run]
         default: score
+      scope:
+        description: "sunday = Sunday games only. week = Thu through Mon (more credits)."
+        type: choice
+        options: [sunday, week]
+        default: sunday
 
 permissions:
   contents: write
@@ -44,7 +49,11 @@ jobs:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
           if [ "${{ steps.mode.outputs.mode }}" = "run" ]; then
-            python -m nflprops run --sunday
+            if [ "${{ inputs.scope }}" = "week" ]; then
+              python -m nflprops run
+            else
+              python -m nflprops run --sunday
+            fi
           else
             python -m nflprops --refresh score
           fi
