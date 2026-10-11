@@ -16,6 +16,11 @@ on:
         type: choice
         options: [sunday, week]
         default: sunday
+      books:
+        description: "standard = DK, FD, BetMGM, Caesars. florida = adds Hard Rock (FL)."
+        type: choice
+        options: [standard, florida]
+        default: standard
 
 permissions:
   contents: write
@@ -48,11 +53,15 @@ jobs:
         env:
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: |
+          BOOKS=""
+          if [ "${{ inputs.books }}" = "florida" ]; then
+            BOOKS="--books draftkings fanduel betmgm caesars hardrockbet_fl"
+          fi
           if [ "${{ steps.mode.outputs.mode }}" = "run" ]; then
             if [ "${{ inputs.scope }}" = "week" ]; then
-              python -m nflprops run
+              python -m nflprops run $BOOKS
             else
-              python -m nflprops run --sunday
+              python -m nflprops run --sunday $BOOKS
             fi
           else
             python -m nflprops --refresh score
