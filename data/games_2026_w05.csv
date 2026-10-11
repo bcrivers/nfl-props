@@ -1,40 +1,49 @@
 home,away,book,commence,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total,over_odds,under_odds
-Jacksonville Jaguars,Philadelphia Eagles,draftkings,2026-10-11T13:30:00Z,-410,320,-7.5,-108,7.5,-112,41.5,-112,-108
-Jacksonville Jaguars,Philadelphia Eagles,fanduel,2026-10-11T13:30:00Z,-400,315,-7.5,-110,7.5,-110,41.5,-115,-105
-Jacksonville Jaguars,Philadelphia Eagles,betmgm,2026-10-11T13:30:00Z,-375,310,-7.5,-112,7.5,-105,41.5,-108,-110
-Green Bay Packers,Chicago Bears,draftkings,2026-10-11T17:00:00Z,110,-130,1.5,-105,-1.5,-115,46.5,-112,-108
-Green Bay Packers,Chicago Bears,fanduel,2026-10-11T17:00:00Z,106,-124,1.5,-110,-1.5,-110,45.5,-115,-105
-Green Bay Packers,Chicago Bears,betmgm,2026-10-11T17:00:00Z,105,-125,1.5,-108,-1.5,-110,46.5,-108,-110
-Miami Dolphins,Cincinnati Bengals,draftkings,2026-10-11T17:00:00Z,275,-345,7.0,-112,-7.0,-108,43.5,-112,-108
-Miami Dolphins,Cincinnati Bengals,fanduel,2026-10-11T17:00:00Z,265,-330,7.0,-115,-7.0,-105,43.5,-110,-110
-Miami Dolphins,Cincinnati Bengals,betmgm,2026-10-11T17:00:00Z,270,-325,7.0,-112,-7.0,-105,43.5,-110,-108
-New York Jets,Cleveland Browns,draftkings,2026-10-11T17:00:00Z,-135,114,-2.5,-110,2.5,-110,39.5,-112,-108
-New York Jets,Cleveland Browns,fanduel,2026-10-11T17:00:00Z,-134,114,-1.5,-120,1.5,-102,39.5,-115,-105
-New York Jets,Cleveland Browns,betmgm,2026-10-11T17:00:00Z,-145,120,-2.5,-108,2.5,-110,39.5,-110,-108
-Tennessee Titans,Houston Texans,draftkings,2026-10-11T17:00:00Z,280,-355,7.0,-112,-7.0,-108,38.5,-105,-115
-Tennessee Titans,Houston Texans,fanduel,2026-10-11T17:00:00Z,295,-370,7.0,-105,-7.0,-115,37.5,-118,-104
-Tennessee Titans,Houston Texans,betmgm,2026-10-11T17:00:00Z,290,-375,7.0,-108,-7.0,-110,38.0,-110,-108
-Pittsburgh Steelers,Indianapolis Colts,draftkings,2026-10-11T17:00:00Z,-148,124,-3.0,-102,3.0,-118,43.5,-108,-112
-Pittsburgh Steelers,Indianapolis Colts,fanduel,2026-10-11T17:00:00Z,-148,126,-2.5,-115,2.5,-105,43.5,-110,-110
-Pittsburgh Steelers,Indianapolis Colts,betmgm,2026-10-11T17:00:00Z,-150,125,-2.5,-118,2.5,-102,43.5,-108,-110
-New England Patriots,Las Vegas Raiders,draftkings,2026-10-11T17:00:00Z,-192,160,-3.5,-108,3.5,-112,45.5,-105,-115
-New England Patriots,Las Vegas Raiders,fanduel,2026-10-11T17:00:00Z,-194,162,-3.5,-115,3.5,-105,44.5,-118,-104
-New England Patriots,Las Vegas Raiders,betmgm,2026-10-11T17:00:00Z,-190,155,-3.5,-110,3.5,-108,45.0,-110,-108
-New Orleans Saints,Minnesota Vikings,draftkings,2026-10-11T17:00:00Z,114,-135,2.5,-110,-2.5,-110,41.5,-108,-112
-New Orleans Saints,Minnesota Vikings,fanduel,2026-10-11T17:00:00Z,116,-134,1.5,-102,-1.5,-120,42.5,-104,-118
-New Orleans Saints,Minnesota Vikings,betmgm,2026-10-11T17:00:00Z,115,-135,2.5,-110,-2.5,-108,41.5,-108,-110
-Washington Commanders,New York Giants,draftkings,2026-10-11T17:00:00Z,-180,150,-3.5,-115,3.5,-105,41.5,-115,-105
-Washington Commanders,New York Giants,fanduel,2026-10-11T17:00:00Z,-190,160,-3.5,-112,3.5,-108,41.5,-115,-105
-Washington Commanders,New York Giants,betmgm,2026-10-11T17:00:00Z,-190,155,-3.5,-110,3.5,-108,41.5,-110,-108
-Los Angeles Chargers,Denver Broncos,draftkings,2026-10-11T20:05:00Z,160,-192,3.5,-112,-3.5,-108,41.5,-115,-105
-Los Angeles Chargers,Denver Broncos,fanduel,2026-10-11T20:05:00Z,156,-186,3.5,-112,-3.5,-108,42.5,-105,-115
-Los Angeles Chargers,Denver Broncos,betmgm,2026-10-11T20:05:00Z,155,-190,3.5,-110,-3.5,-108,42.0,-110,-108
-Arizona Cardinals,Detroit Lions,draftkings,2026-10-11T20:25:00Z,210,-258,5.5,-112,-5.5,-108,54.5,-115,-105
-Arizona Cardinals,Detroit Lions,fanduel,2026-10-11T20:25:00Z,198,-245,5.5,-115,-5.5,-105,54.5,-108,-112
-Arizona Cardinals,Detroit Lions,betmgm,2026-10-11T20:25:00Z,200,-250,5.0,-108,-5.0,-110,54.5,-108,-110
-Seattle Seahawks,San Francisco 49ers,draftkings,2026-10-11T20:25:00Z,-162,136,-3.0,-110,3.0,-110,45.5,-115,-105
-Seattle Seahawks,San Francisco 49ers,fanduel,2026-10-11T20:25:00Z,-174,146,-3.0,-118,3.0,-104,46.5,-105,-115
-Seattle Seahawks,San Francisco 49ers,betmgm,2026-10-11T20:25:00Z,-165,138,-3.0,-112,3.0,-105,46.5,-108,-110
-Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T00:20:00Z,-180,150,-3.0,-122,3.0,102,43.5,-110,-110
-Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T00:20:00Z,-168,142,-3.5,100,3.5,-122,43.5,-114,-106
-Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T00:20:00Z,-175,145,-3.0,-118,3.0,-102,43.5,-110,-108
+Green Bay Packers,Chicago Bears,draftkings,2026-10-11T17:00:00Z,105,-125,1.5,-108,-1.5,-112,47.5,-102,-118
+Green Bay Packers,Chicago Bears,fanduel,2026-10-11T17:00:00Z,106,-124,1.5,-110,-1.5,-110,46.5,-110,-110
+Green Bay Packers,Chicago Bears,betmgm,2026-10-11T17:00:00Z,105,-125,1.5,-110,-1.5,-108,46.5,-112,-105
+Green Bay Packers,Chicago Bears,hardrockbet_fl,2026-10-11T17:00:00Z,105,-125,1.5,-110,-1.5,-110,46.5,-115,-105
+Miami Dolphins,Cincinnati Bengals,draftkings,2026-10-11T17:00:00Z,275,-345,7.0,-108,-7.0,-112,44.5,-110,-110
+Miami Dolphins,Cincinnati Bengals,fanduel,2026-10-11T17:00:00Z,295,-370,7.0,-105,-7.0,-115,44.5,-115,-105
+Miami Dolphins,Cincinnati Bengals,betmgm,2026-10-11T17:00:00Z,280,-350,7.0,-110,-7.0,-108,45.0,-108,-110
+Miami Dolphins,Cincinnati Bengals,hardrockbet_fl,2026-10-11T17:00:00Z,300,-375,6.5,105,-6.5,-125,44.5,-110,-110
+New York Jets,Cleveland Browns,draftkings,2026-10-11T17:00:00Z,-135,114,-2.5,-110,2.5,-110,38.5,-112,-108
+New York Jets,Cleveland Browns,fanduel,2026-10-11T17:00:00Z,-138,118,-2.5,-110,2.5,-110,38.5,-115,-105
+New York Jets,Cleveland Browns,betmgm,2026-10-11T17:00:00Z,-140,115,-2.5,-110,2.5,-110,38.5,-110,-108
+New York Jets,Cleveland Browns,hardrockbet_fl,2026-10-11T17:00:00Z,-135,115,-2.5,-110,2.5,-110,38.5,-110,-110
+Tennessee Titans,Houston Texans,draftkings,2026-10-11T17:00:00Z,275,-345,6.5,-102,-6.5,-118,37.5,-115,-105
+Tennessee Titans,Houston Texans,fanduel,2026-10-11T17:00:00Z,245,-300,6.5,-110,-6.5,-110,37.5,-118,-104
+Tennessee Titans,Houston Texans,betmgm,2026-10-11T17:00:00Z,260,-325,6.5,100,-6.5,-110,38.0,-108,-110
+Tennessee Titans,Houston Texans,hardrockbet_fl,2026-10-11T17:00:00Z,275,-350,6.5,100,-6.5,-120,37.5,-115,-105
+Pittsburgh Steelers,Indianapolis Colts,draftkings,2026-10-11T17:00:00Z,-155,130,-3.0,-108,3.0,-112,41.5,-115,-105
+Pittsburgh Steelers,Indianapolis Colts,fanduel,2026-10-11T17:00:00Z,-154,130,-2.5,-122,2.5,100,42.5,-105,-115
+Pittsburgh Steelers,Indianapolis Colts,betmgm,2026-10-11T17:00:00Z,-160,130,-3.0,-102,3.0,-118,42.0,-110,-108
+Pittsburgh Steelers,Indianapolis Colts,hardrockbet_fl,2026-10-11T17:00:00Z,-155,130,-2.5,-130,2.5,105,42.5,-110,-110
+New England Patriots,Las Vegas Raiders,draftkings,2026-10-11T17:00:00Z,-185,154,-3.5,-105,3.5,-115,45.5,-112,-108
+New England Patriots,Las Vegas Raiders,fanduel,2026-10-11T17:00:00Z,-188,158,-3.5,-110,3.5,-110,45.5,-115,-105
+New England Patriots,Las Vegas Raiders,betmgm,2026-10-11T17:00:00Z,-190,155,-3.5,-105,3.5,-105,46.0,-108,-110
+New England Patriots,Las Vegas Raiders,hardrockbet_fl,2026-10-11T17:00:00Z,-190,155,-3.5,-110,3.5,-110,45.5,-110,-110
+New Orleans Saints,Minnesota Vikings,draftkings,2026-10-11T17:00:00Z,114,-135,2.5,-120,-2.5,100,41.5,-112,-108
+New Orleans Saints,Minnesota Vikings,fanduel,2026-10-11T17:00:00Z,114,-134,1.5,-102,-1.5,-120,42.5,-104,-118
+New Orleans Saints,Minnesota Vikings,betmgm,2026-10-11T17:00:00Z,115,-140,2.0,-108,-2.0,-110,41.5,-110,-108
+New Orleans Saints,Minnesota Vikings,hardrockbet_fl,2026-10-11T17:00:00Z,115,-135,2.5,-110,-2.5,-110,41.5,-110,-110
+Washington Commanders,New York Giants,draftkings,2026-10-11T17:00:00Z,-192,160,-3.5,-115,3.5,-105,41.5,-112,-108
+Washington Commanders,New York Giants,fanduel,2026-10-11T17:00:00Z,-186,156,-3.5,-112,3.5,-108,41.5,-115,-105
+Washington Commanders,New York Giants,betmgm,2026-10-11T17:00:00Z,-190,155,-3.5,-105,3.5,-105,42.0,-108,-110
+Washington Commanders,New York Giants,hardrockbet_fl,2026-10-11T17:00:00Z,-190,160,-3.5,-105,3.5,-115,41.5,-110,-110
+Los Angeles Chargers,Denver Broncos,draftkings,2026-10-11T20:05:00Z,154,-185,3.5,-112,-3.5,-108,41.5,-115,-105
+Los Angeles Chargers,Denver Broncos,fanduel,2026-10-11T20:05:00Z,166,-198,3.5,-110,-3.5,-110,42.5,-105,-115
+Los Angeles Chargers,Denver Broncos,betmgm,2026-10-11T20:05:00Z,160,-200,3.5,-110,-3.5,-108,42.0,-110,-110
+Los Angeles Chargers,Denver Broncos,hardrockbet_fl,2026-10-11T20:05:00Z,160,-195,3.5,-110,-3.5,-110,41.5,-115,-105
+Arizona Cardinals,Detroit Lions,draftkings,2026-10-11T20:25:00Z,205,-250,5.5,-112,-5.5,-108,54.5,-118,-102
+Arizona Cardinals,Detroit Lions,fanduel,2026-10-11T20:25:00Z,200,-245,5.5,-115,-5.5,-105,54.5,-108,-112
+Arizona Cardinals,Detroit Lions,betmgm,2026-10-11T20:25:00Z,210,-250,5.5,-110,-5.5,-108,54.5,-108,-110
+Arizona Cardinals,Detroit Lions,hardrockbet_fl,2026-10-11T20:25:00Z,200,-260,5.5,-110,-5.5,-110,54.5,-110,-110
+Seattle Seahawks,San Francisco 49ers,draftkings,2026-10-11T20:25:00Z,-166,140,-3.0,-115,3.0,-105,46.5,-105,-115
+Seattle Seahawks,San Francisco 49ers,fanduel,2026-10-11T20:25:00Z,-172,144,-3.0,-118,3.0,-104,46.5,-115,-105
+Seattle Seahawks,San Francisco 49ers,betmgm,2026-10-11T20:25:00Z,-165,140,-3.0,-118,3.0,-102,46.5,-110,-108
+Seattle Seahawks,San Francisco 49ers,hardrockbet_fl,2026-10-11T20:25:00Z,-170,145,-3.5,100,3.5,-120,46.5,-110,-110
+Atlanta Falcons,Baltimore Ravens,draftkings,2026-10-12T00:20:00Z,-175,145,-3.0,-120,3.0,100,43.5,-110,-110
+Atlanta Falcons,Baltimore Ravens,fanduel,2026-10-12T00:20:00Z,-172,144,-3.5,100,3.5,-122,43.5,-114,-106
+Atlanta Falcons,Baltimore Ravens,betmgm,2026-10-12T00:20:00Z,-175,150,-3.0,-118,3.0,-102,43.5,-110,-108
+Atlanta Falcons,Baltimore Ravens,hardrockbet_fl,2026-10-12T00:20:00Z,-180,150,-3.5,-105,3.5,-115,43.5,-110,-110
