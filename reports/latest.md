@@ -1,5 +1,5 @@
-# NFL Props Slate: 2026 Week 5
-Generated Sun Oct 11 2026 07:19 PM. Player stats through 2026 week 5. 1074 lines scored, 446 clear the 3% edge bar.
+# NFL Props Slate: 2026 Week 6
+Generated Sat Oct 17 2026 09:08 PM. Player stats through 2026 week 6. 1024 lines scored, 419 clear the 3% edge bar.
 
 Columns: proj = model projection. p_model = model chance the pick hits. p_fair = market's no-vig chance. edge = p_model minus p_fair. EV = expected profit per $1 at the listed odds. rank = row in the CSV, use it with the parlay command.
 
@@ -7,169 +7,170 @@ Columns: proj = model projection. p_model = model chance the pick hits. p_fair =
 Market line next to a simple model estimate. Game lines are the sharpest markets in sports: treat the model columns as context, not edges. Win % is the no-vig market chance the home team wins.
 | Game | Spread (home) | Total | ML (away / home) | Home win % | Model total | Model spread | Model home win % |
 |---|---|---|---|---|---|---|---|
-| NYG @ WAS | -3.5 | 41.5 | +158 / -190 | 63% | 46.4 | +2 | 44% |
-| IND @ PIT | -2.75 | 42.25 | +130 / -155 | 58% | 46.2 | -1.6 | 55% |
-| LV @ NE | -3.5 | 45.5 | +155 / -189 | 62% | 42.6 | +2.8 | 42% |
-| HOU @ TEN | +6.5 | 37.5 | -335 / +267 | 26% | 41.4 | -2.2 | 56% |
-| CIN @ MIA | +7 | 44.5 | -360 / +287 | 25% | 41.1 | +5.8 | 33% |
-| CHI @ GB | +1.5 | 46.5 | -125 / +105 | 47% | 44.4 | +7.3 | 30% |
-| MIN @ NO | +2.25 | 41.5 | -135 / +114 | 45% | 46.2 | +4.6 | 36% |
-| CLE @ NYJ | -2.5 | 38.5 | +115 / -136 | 55% | 42.0 | -3.4 | 60% |
-| DEN @ LAC | +3.5 | 41.75 | -196 / +160 | 37% | 42.6 | -0.2 | 51% |
-| DET @ ARI | +5.5 | 54.5 | -250 / +202 | 32% | 56.2 | +0.1 | 50% |
-| SF @ SEA | -3 | 46.5 | +142 / -168 | 60% | 45.5 | +0.6 | 48% |
-| BAL @ ATL | -3.25 | 43.5 | +147 / -175 | 61% | 50.0 | -0.6 | 52% |
+| HOU @ JAX | -2.5 | 42.5 | +124 / -148 | 57% | 41.5 | -8.1 | 73% |
+| BAL @ CLE | +3 | 39.5 | -175 / +145 | 39% | 47.0 | +2 | 44% |
+| NYJ @ NE | -7.5 | 43.5 | +290 / -355 | 75% | 39.3 | -4.5 | 63% |
+| CAR @ PHI | +3 | 39.0 | -172 / +144 | 39% | 49.1 | +0.9 | 47% |
+| PIT @ TB | +2.5 | 38.5 | -145 / +120 | 43% | 43.2 | -1.2 | 54% |
+| CHI @ ATL | +1.5 | 52.0 | -116 / -102 | 48% | 45.6 | -0 | 50% |
+| NO @ NYG | +1.5 | 46.0 | -110 / -108 | 50% | 48.4 | -6.2 | 68% |
+| TEN @ IND | -7 | 44.5 | +270 / -330 | 74% | 42.9 | -6.3 | 68% |
+| ARI @ LA | -12.5 | 51.5 | +560 / -750 | 85% | 50.9 | -7.9 | 72% |
+| LAC @ KC | -7.5 | 41.5 | +310 / -400 | 77% | 45.7 | -12.2 | 82% |
+| BUF @ LV | +5.5 | 53.5 | -245 / +200 | 32% | 56.6 | -0.6 | 52% |
+| DAL @ GB | -1.5 | 53.5 | -102 / -118 | 52% | 49.0 | -1.6 | 55% |
 
 ## Game environment
 | Game | Total | Implied (away / home) | Roof | Wind |
 |---|---|---|---|---|
-| CHI @ GB (2026-10-11) | 46.5 | 24.0 / 22.5 | outdoors |  |
-| CIN @ MIA (2026-10-11) | 44.5 | 25.8 / 18.8 | outdoors |  |
-| LV @ NE (2026-10-11) | 45.5 | 21.0 / 24.5 | outdoors |  |
-| MIN @ NO (2026-10-11) | 41.5 | 22.0 / 19.5 | dome |  |
-| CLE @ NYJ (2026-10-11) | 38.5 | 18.0 / 20.5 | outdoors |  |
-| IND @ PIT (2026-10-11) | 41.5 | 19.2 / 22.2 | outdoors |  |
-| HOU @ TEN (2026-10-11) | 37.5 | 22.0 / 15.5 | outdoors |  |
-| NYG @ WAS (2026-10-11) | 41.5 | 19.0 / 22.5 | outdoors |  |
-| DEN @ LAC (2026-10-11) | 42.5 | 23.0 / 19.5 | dome |  |
-| DET @ ARI (2026-10-11) | 55.5 | 30.5 / 25.0 |  |  |
-| SF @ SEA (2026-10-11) | 46.5 | 21.8 / 24.8 | outdoors |  |
-| BAL @ ATL (2026-10-11) | 43.5 | 20.2 / 23.2 |  |  |
-| BUF @ LA (2026-10-12) | 54.5 | 25.8 / 28.8 | dome |  |
+| HOU @ JAX (2026-10-18) | 42.5 | 20.0 / 22.5 | outdoors |  |
+| CHI @ ATL (2026-10-18) | 52.5 | 27.0 / 25.5 |  |  |
+| BAL @ CLE (2026-10-18) | 39.5 | 21.2 / 18.2 | outdoors |  |
+| TEN @ IND (2026-10-18) | 44.5 | 18.8 / 25.8 |  |  |
+| NYJ @ NE (2026-10-18) | 43.5 | 18.0 / 25.5 | outdoors |  |
+| NO @ NYG (2026-10-18) | 46.5 | 24.0 / 22.5 | outdoors |  |
+| CAR @ PHI (2026-10-18) | 39.5 | 21.2 / 18.2 | outdoors |  |
+| PIT @ TB (2026-10-18) | 38.5 | 20.5 / 18.0 | outdoors |  |
+| ARI @ LA (2026-10-18) | 51.5 | 19.5 / 32.0 | dome |  |
+| LAC @ KC (2026-10-18) | 41.5 | 17.0 / 24.5 | outdoors |  |
+| BUF @ LV (2026-10-18) | 53.5 | 29.5 / 24.0 | dome |  |
+| DAL @ GB (2026-10-18) | 53.5 | 26.0 / 27.5 | outdoors |  |
+| WAS @ SF (2026-10-19) | 52.5 | 22.5 / 30.0 | outdoors |  |
 
 ## Top plays (no flags)
 | rank | Player | Market | Pick | Odds (book) | proj | last 5 | hit | p_model | p_fair | edge | EV |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 76 | Emanuel Wilson (RB, SEA vs SF) | receptions | under 1.5 | +130 (hardrockbet_fl) | 1.0 | 3, 0, 0, 0, 1 | 1/5 | 51% | 42% | 9% | +0.18 |
-| 96 | Elijah Higgins (TE, ARI vs DET) | receptions | over 1.5 | +134 (fanduel) | 2.4 | 2, 3, 0, 3, 0 | 3/5 | 49% | 41% | 8% | +0.15 |
-| 114 | Efton Chism III (WR, NE vs LV) | rec_yds | under 25.5 | -111 (betmgm) | 15.7 | 42, 1, -2, 35, 40 | 3/5 | 60% | 50% | 10% | +0.14 |
-| 115 | Malik Washington (WR, MIA vs CIN) | receptions | under 4.5 | +104 (draftkings) | 3.4 | 5, 5, 4, 3, 3 | 2/5 | 56% | 48% | 8% | +0.14 |
-| 119 | MarShawn Lloyd (RB, GB vs CHI) | rush_yds | under 27.5 | -113 (draftkings) | 18.2 | 13, 11, 20, 37 | 1/4 | 60% | 50% | 10% | +0.14 |
-| 126 | MarShawn Lloyd (RB, GB vs CHI) | rush_yds | under 29.5 | -120 (betmgm) | 18.2 | 13, 11, 20, 37 | 1/4 | 62% | 51% | 11% | +0.14 |
-| 137 | Cody White (WR, LV vs NE) | rec_yds | under 22.5 | -114 (draftkings) | 14.6 | 36, 4, 24, 0, 0 | 2/5 | 60% | 50% | 10% | +0.13 |
-| 143 | Cody White (WR, LV vs NE) | rec_yds | under 21.5 | -110 (hardrockbet_fl) | 14.6 | 36, 4, 24, 0, 0 | 2/5 | 59% | 50% | 9% | +0.12 |
-| 144 | David Montgomery (RB, HOU vs TEN) | rush_yds | under 43.5 | -113 (fanduel) | 31.5 | 24, 33, 10, 60, 42 | 1/5 | 60% | 50% | 10% | +0.12 |
-| 147 | Efton Chism III (WR, NE vs LV) | rec_yds | under 23.5 | -113 (fanduel) | 15.7 | 42, 1, -2, 35, 40 | 3/5 | 60% | 50% | 10% | +0.12 |
-| 152 | Antonio Williams (WR, WAS vs NYG) | rec_yds | under 39.5 | -113 (draftkings) | 27.7 | 21, 15, 24, 64 | 1/4 | 59% | 50% | 9% | +0.12 |
-| 154 | David Montgomery (RB, HOU vs TEN) | rush_yds | under 44.5 | -115 (betmgm) | 31.5 | 24, 33, 10, 60, 42 | 1/5 | 60% | 50% | 10% | +0.12 |
-| 164 | Omarion Hampton (RB, LAC vs DEN) | rush_yds | over 40.5 | -113 (fanduel) | 62.6 | 45, 56, 94, 43, 29 | 4/5 | 59% | 50% | 8% | +0.11 |
-| 166 | Jacory Croskey-Merritt (RB, WAS vs NYG) | rush_yds | under 56.5 | -112 (draftkings) | 42.0 | 15, 36, 43, 63, 29 | 1/5 | 59% | 50% | 9% | +0.11 |
-| 167 | Emanuel Wilson (RB, SEA vs SF) | rush_yds | under 63.5 | -110 (draftkings) | 47.5 | 81, 14, 92, 3, 44 | 2/5 | 58% | 50% | 8% | +0.11 |
-| 171 | Quinshon Judkins (RB, CLE vs NYJ) | rush_yds | under 59.5 | -111 (draftkings) | 46.4 | 53, 70, 21, 33, 22 | 1/5 | 58% | 50% | 8% | +0.11 |
-| 173 | Tucker Kraft (TE, GB vs CHI) | anytime_td | over 0.5 | +245 (draftkings) | 0.5 | 1, 0, 0, 0, 0 | 1/5 | 32% | 28% | 4% | +0.11 |
-| 178 | Omarion Hampton (RB, LAC vs DEN) | rush_yds | over 39.5 | -115 (betmgm) | 62.6 | 45, 56, 94, 43, 29 | 4/5 | 59% | 50% | 9% | +0.10 |
-| 187 | Tucker Kraft (TE, GB vs CHI) | rec_yds | under 50.5 | -110 (draftkings) | 38.7 | 42, 26, 15, 65, 20 | 1/5 | 58% | 50% | 8% | +0.10 |
-| 188 | Kendre Miller (RB, NO vs MIN) | rush_yds | under 23.5 | -109 (draftkings) | 18.5 | 9, 14, 30, 7, 21 | 1/5 | 57% | 50% | 8% | +0.10 |
-| 196 | RJ Harvey (RB, DEN vs LAC) | anytime_td | over 0.5 | +210 (draftkings) | 0.6 | 0, 0, 0, 0, 1 | 1/5 | 35% | 31% | 5% | +0.10 |
-| 198 | Emanuel Wilson (RB, SEA vs SF) | rush_yds | under 65.5 | -115 (betmgm) | 47.5 | 81, 14, 92, 3, 44 | 2/5 | 59% | 50% | 9% | +0.10 |
-| 201 | Quinshon Judkins (RB, CLE vs NYJ) | rush_yds | under 60.5 | -115 (hardrockbet_fl) | 46.4 | 53, 70, 21, 33, 22 | 1/5 | 59% | 50% | 9% | +0.10 |
-| 202 | Antonio Williams (WR, WAS vs NYG) | rec_yds | under 38.5 | -118 (betmgm) | 27.7 | 21, 15, 24, 64 | 1/4 | 59% | 51% | 9% | +0.10 |
-| 207 | Antonio Williams (WR, WAS vs NYG) | rec_yds | under 36.5 | -113 (fanduel) | 27.7 | 21, 15, 24, 64 | 1/4 | 58% | 50% | 8% | +0.10 |
+| 32 | Dallas Goedert (TE, PHI vs CAR) | anytime_td | over 0.5 | +330 (fanduel) | 0.5 | 0, 0, 2, 1, 1 | 3/5 | 29% | 24% | 5% | +0.26 |
+| 55 | Darren Waller (TE, CAR vs PHI) | anytime_td | over 0.5 | +370 (draftkings) | 0.5 | 0, 0, 2, 0, 0 | 1/5 | 26% | 20% | 6% | +0.21 |
+| 75 | MarShawn Lloyd (RB, GB vs DAL) | rush_yds | under 43.5 | -114 (draftkings) | 26.3 | 31, 13, 11, 20, 37 | 0/5 | 63% | 50% | 12% | +0.18 |
+| 83 | MarShawn Lloyd (RB, GB vs DAL) | rush_yds | under 42.5 | -114 (fanduel) | 26.3 | 31, 13, 11, 20, 37 | 0/5 | 62% | 50% | 12% | +0.17 |
+| 101 | Jalon Daniels (QB, TB vs PIT) | rush_yds | under 36.5 | -109 (draftkings) | 23.5 | 23, 55, 9 | 1/3 | 60% | 50% | 10% | +0.14 |
+| 110 | Woody Marks (RB, HOU vs JAX) | rush_yds | under 45.5 | -113 (fanduel) | 29.5 | 62, 22, 15, 8, 42 | 1/5 | 60% | 50% | 10% | +0.14 |
+| 118 | Omarion Hampton (RB, LAC vs KC) | anytime_td | over 0.5 | +280 (fanduel) | 0.5 | 0, 1, 0, 1, 1 | 3/5 | 30% | 26% | 4% | +0.13 |
+| 120 | Kendre Miller (RB, NO vs NYG) | rush_yds | under 33.5 | -109 (draftkings) | 24.1 | 30, 9, 14, 30, 7 | 0/5 | 59% | 49% | 10% | +0.13 |
+| 128 | Kendre Miller (RB, NO vs NYG) | rush_yds | under 34.5 | -113 (fanduel) | 24.1 | 30, 9, 14, 30, 7 | 0/5 | 60% | 50% | 10% | +0.13 |
+| 133 | Jalon Daniels (QB, TB vs PIT) | rush_yds | under 35.5 | -113 (fanduel) | 23.5 | 23, 55, 9 | 1/3 | 60% | 50% | 10% | +0.12 |
+| 135 | Kendre Miller (RB, NO vs NYG) | rush_yds | under 36.5 | -120 (betmgm) | 24.1 | 30, 9, 14, 30, 7 | 0/5 | 61% | 51% | 10% | +0.12 |
+| 136 | Matthew Stafford (QB, LA vs ARI) | pass_yds | over 281.5 | -112 (draftkings) | 370.6 | 383, 317, 390, 327, 155 | 4/5 | 59% | 50% | 9% | +0.12 |
+| 140 | Matthew Stafford (QB, LA vs ARI) | pass_yds | over 279.5 | -113 (fanduel) | 370.6 | 383, 317, 390, 327, 155 | 4/5 | 59% | 50% | 9% | +0.12 |
+| 143 | Woody Marks (RB, HOU vs JAX) | rush_yds | under 46.5 | -120 (betmgm) | 29.5 | 62, 22, 15, 8, 42 | 1/5 | 61% | 51% | 10% | +0.12 |
+| 155 | Pat Freiermuth (TE, PIT vs TB) | anytime_td | over 0.5 | +300 (betmgm) | 0.4 | 2, 1, 0, 0, 1 | 3/5 | 28% | 24% | 3% | +0.11 |
+| 165 | Woody Marks (RB, HOU vs JAX) | rec_yds | under 15.5 | -115 (betmgm) | 10.6 | 23, 0, 6, 27, -2 | 2/5 | 59% | 50% | 9% | +0.11 |
+| 174 | Travis Kelce (TE, KC vs LAC) | receptions | under 4.5 | -102 (fanduel) | 3.5 | 2, 2, 9, 3, 3 | 1/5 | 56% | 49% | 7% | +0.11 |
+| 180 | KC Concepcion (WR, CLE vs BAL) | rec_yds | under 39.5 | -111 (draftkings) | 29.9 | 5, 64, 9, 28, 43 | 2/5 | 58% | 50% | 8% | +0.10 |
+| 187 | Matthew Stafford (QB, LA vs ARI) | pass_yds | over 285.5 | -115 (betmgm) | 370.6 | 383, 317, 390, 327, 155 | 4/5 | 59% | 50% | 9% | +0.10 |
+| 193 | Jacoby Brissett (QB, ARI vs LA) | pass_yds | under 237.5 | -113 (fanduel) | 193.6 | 292, 166, 280, 95, 277 | 3/5 | 58% | 50% | 8% | +0.10 |
+| 194 | Jacoby Brissett (QB, ARI vs LA) | pass_yds | under 235.5 | -113 (draftkings) | 193.6 | 292, 166, 280, 95, 277 | 3/5 | 58% | 50% | 8% | +0.10 |
+| 208 | KC Concepcion (WR, CLE vs BAL) | rec_yds | under 38.5 | -113 (fanduel) | 29.9 | 5, 64, 9, 28, 43 | 2/5 | 58% | 50% | 8% | +0.09 |
+| 209 | Jacoby Brissett (QB, ARI vs LA) | pass_yds | under 238.5 | -115 (betmgm) | 193.6 | 292, 166, 280, 95, 277 | 3/5 | 58% | 50% | 8% | +0.09 |
+| 220 | Harold Fannin Jr. (TE, CLE vs BAL) | rec_yds | under 33.5 | -108 (draftkings) | 28.5 | 4, 27, 51, 54, 21 | 2/5 | 56% | 50% | 7% | +0.09 |
+| 222 | Ted Hurst III (WR, TB vs PIT) | receptions | over 1.5 | +160 (betmgm) | 1.8 | 2, 1, 2, 3 | 3/4 | 42% | 36% | 5% | +0.09 |
 
 ## Edges with flags (verify before betting)
 | rank | Player | Market | Pick | Odds (book) | proj | last 5 | hit | p_model | p_fair | edge | EV | Flags |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 35 | Kevin Coleman Jr. (WR, MIA vs CIN) | receptions | under 1.5 | +132 (draftkings) | 0.7 | 1, 1, 0 | 0/3 | 56% | 43% | 13% | +0.29 | line far from history: new role? |
-| 39 | Kevin Coleman Jr. (WR, MIA vs CIN) | rec_yds | under 18.5 | -108 (draftkings) | 1.9 | 3, 3, 0 | 0/3 | 65% | 50% | 15% | +0.25 | line far from history: new role?; huge gap vs market: check news/role |
-| 41 | Tyson Bagent (QB, CHI vs GB) | rush_yds | under 11.5 | -106 (draftkings) | 1.5 | 1, 0, 0, 7 | 0/4 | 64% | 49% | 15% | +0.24 | line far from history: new role?; fringe player line; only 2 games this season; huge gap vs market: check news/role |
-| 46 | Kirk Cousins (QB, LV vs NE) | rush_yds | under 0.5 | -118 (draftkings) | -0.0 | 0, 3, 1, -6, 0 | 2/5 | 66% | 52% | 14% | +0.23 | role change (1 last season -> -0 this season); line far from history: new role?; fringe player line |
-| 48 | Xavier Hutchinson (WR, HOU vs TEN) | receptions | over 1.5 | +134 (fanduel) | 2.8 | 3, 3, 3, 3, 5 | 5/5 | 52% | 42% | 10% | +0.22 | line far from history: new role? |
-| 49 | Tyson Bagent (QB, CHI vs GB) | rush_yds | under 12.5 | -113 (fanduel) | 1.5 | 1, 0, 0, 7 | 0/4 | 65% | 50% | 15% | +0.22 | line far from history: new role?; fringe player line; only 2 games this season |
-| 50 | Braelon Allen (RB, NYJ vs CLE) | rec_yds | under 13.5 | -109 (draftkings) | 4.3 | 8, 3, 8, 0, 0 | 0/5 | 64% | 50% | 14% | +0.22 | line far from history: new role?; fringe player line |
-| 51 | Kevin Coleman Jr. (WR, MIA vs CIN) | rec_yds | under 19.5 | -115 (betmgm) | 1.9 | 3, 3, 0 | 0/3 | 65% | 50% | 15% | +0.21 | line far from history: new role? |
-| 52 | Dareke Young (WR, LV vs NE) | rec_yds | over 0.5 | -112 (draftkings) | 7.4 | 9, 0, 27, 0, 0 | 2/5 | 64% | 50% | 14% | +0.21 | line far from history: new role?; fringe player line |
-| 53 | Xavier Hutchinson (WR, HOU vs TEN) | rec_yds | over 14.5 | -113 (fanduel) | 39.8 | 46, 51, 37, 32, 84 | 5/5 | 64% | 50% | 14% | +0.21 | line far from history: new role?; fringe player line |
-| 54 | Ollie Gordon II (RB, MIA vs CIN) | rec_yds | under 10.5 | -110 (betmgm) | 3.2 | 0, 14, 0, 2, 0 | 1/5 | 64% | 50% | 13% | +0.21 | role change (2 last season -> 5 this season); line far from history: new role?; fringe player line |
-| 55 | Braelon Allen (RB, NYJ vs CLE) | rush_yds | under 71.5 | -111 (draftkings) | 29.5 | 59, 14, 7, 40, 26 | 0/5 | 64% | 50% | 14% | +0.21 | line far from history: new role? |
-| 56 | Tyson Bagent (QB, CHI vs GB) | rush_yds | under 10.5 | -115 (betmgm) | 1.5 | 1, 0, 0, 7 | 0/4 | 65% | 50% | 15% | +0.21 | line far from history: new role?; fringe player line; only 2 games this season |
-| 57 | Jordan Love (QB, GB vs CHI) | rush_yds | under 6.5 | -113 (fanduel) | 2.0 | -8, 0, 0, 0, 7 | 1/5 | 64% | 51% | 13% | +0.20 | role change (13 last season -> -2 this season); line far from history: new role?; fringe player line |
-| 58 | Roschon Johnson (RB, CHI vs GB) | rush_yds | under 19.5 | -110 (hardrockbet_fl) | 6.7 | 16, 0, 0, 11, 6 | 0/5 | 63% | 50% | 14% | +0.20 | role change (3 last season -> 8 this season); line far from history: new role?; only 2 games this season |
+| 29 | Jalen Brooks (WR, ARI vs LA) | receptions | under 1.5 | +122 (fanduel) | 0.5 | 2, 0, 0, 0, 0 | 1/5 | 57% | 43% | 14% | +0.27 | line far from history: new role? |
+| 31 | Matthew Stafford (QB, LA vs ARI) | rush_yds | over 0.5 | +118 (fanduel) | 3.7 | 0, 10, 13, -1, -1 | 2/5 | 58% | 44% | 14% | +0.26 | role change (0 last season -> 4 this season); line far from history: new role?; fringe player line |
+| 35 | Xavier Hutchinson (WR, HOU vs JAX) | rec_yds | over 14.5 | -108 (draftkings) | 49.6 | 65, 46, 51, 37, 32 | 5/5 | 64% | 50% | 15% | +0.24 | role change (27 last season -> 46 this season); line far from history: new role?; fringe player line |
+| 37 | Dameon Pierce (RB, PHI vs CAR) | rush_yds | under 54.5 | -111 (draftkings) | 10.0 | 14, 10, 0, 0, 21 | 0/5 | 65% | 50% | 15% | +0.23 | line far from history: new role?; only 1 game this season |
+| 38 | Cyrus Allen (WR, KC vs LAC) | rec_yds | under 13.5 | -113 (fanduel) | 0.0 | 0, 0 | 0/2 | 65% | 50% | 15% | +0.23 | line far from history: new role?; fringe player line; only 2 games this season |
+| 39 | Dameon Pierce (RB, PHI vs CAR) | rec_yds | under 9.5 | -113 (fanduel) | -0.7 | -2, 0, 0, 0, 0 | 0/5 | 65% | 50% | 15% | +0.23 | line far from history: new role?; fringe player line; only 1 game this season |
+| 40 | Kirk Cousins (QB, LV vs BUF) | rush_yds | under 1.5 | -112 (draftkings) | -0.0 | 0, 0, 3, 1, -6 | 1/5 | 65% | 50% | 15% | +0.23 | role change (1 last season -> -0 this season); line far from history: new role?; fringe player line; huge gap vs market: check news/role |
+| 41 | Aaron Rodgers (QB, PIT vs TB) | rush_yds | over 0.5 | +102 (fanduel) | 3.8 | 6, 0, 10, 5, -3 | 3/5 | 61% | 48% | 13% | +0.23 | line far from history: new role?; fringe player line |
+| 47 | Dameon Pierce (RB, PHI vs CAR) | rush_yds | under 52.5 | -113 (fanduel) | 10.0 | 14, 10, 0, 0, 21 | 0/5 | 65% | 50% | 15% | +0.22 | line far from history: new role?; only 1 game this season |
+| 48 | Cyrus Allen (WR, KC vs LAC) | rec_yds | under 12.5 | -115 (draftkings) | 0.0 | 0, 0 | 0/2 | 65% | 51% | 15% | +0.22 | line far from history: new role?; fringe player line; only 2 games this season |
+| 49 | Jalen Royals (WR, KC vs LAC) | rec_yds | under 24.5 | -113 (fanduel) | 3.8 | 0, 11, 6, 0, 4 | 0/5 | 65% | 50% | 15% | +0.22 | line far from history: new role? |
+| 50 | Braelon Allen (RB, NYJ vs NE) | rec_yds | under 14.5 | -110 (draftkings) | 4.2 | 0, 8, 3, 8, 0 | 0/5 | 64% | 50% | 14% | +0.22 | line far from history: new role?; fringe player line; target share up (4% -> 12% last 3) |
+| 51 | Jalen Royals (WR, KC vs LAC) | rec_yds | under 25.5 | -115 (draftkings) | 3.8 | 0, 11, 6, 0, 4 | 0/5 | 65% | 50% | 15% | +0.21 | line far from history: new role? |
+| 53 | Roschon Johnson (RB, CHI vs ATL) | rush_yds | under 21.5 | -113 (draftkings) | 5.8 | 6, 16, 0, 0, 11 | 0/5 | 64% | 50% | 14% | +0.21 | role change (3 last season -> 7 this season); line far from history: new role? |
+| 54 | Pierre Strong Jr. (RB, GB vs DAL) | rush_yds | under 18.5 | -114 (draftkings) | 8.4 | 7 | 0/1 | 65% | 50% | 14% | +0.21 | line far from history: new role?; only 1 game this season |
 
 ## Longshot TD lottery (odds longer than +400, for fun money only)
 | rank | Player | Market | Pick | Odds (book) | proj | last 5 | hit | p_model | p_fair | edge | EV | Flags |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Scott Matlock (DT, LAC vs DEN) | anytime_td | over 0.5 | +2200 (draftkings) | 0.4 | 0, 0, 1, 0 | 1/4 | 12% | 4% | 8% | +1.86 | Questionable (Foot); only 0 games this season; huge gap vs market: check news/role |
-| 3 | Bam Knight (RB, ARI vs DET) | anytime_td | over 0.5 | +1500 (fanduel) | 0.3 | 0, 0, 0, 1, 1 | 2/5 | 12% | 6% | 6% | +1.00 | only 1 game this season; huge gap vs market: check news/role |
-| 9 | Devin Singletary (RB, NYG vs WAS) | anytime_td | over 0.5 | +1000 (draftkings) | 0.3 | 0, 1, 1, 1, 0 | 3/5 | 14% | 9% | 5% | +0.59 | only 2 games this season |
-| 45 | Isaac TeSlaa (WR, DET vs ARI) | anytime_td | over 0.5 | +410 (fanduel) | 0.4 | 0, 0, 0, 0, 0 | 0/5 | 24% | 20% | 4% | +0.23 |  |
-| 47 | Tory Horton (WR, SEA vs SF) | anytime_td | over 0.5 | +625 (betmgm) | 0.3 | 1, 0, 2, 0, 0 | 2/5 | 17% | 14% | 3% | +0.23 | only 2 games this season |
-| 4 | Erick All (TE, CIN vs MIA) | anytime_td | over 0.5 | +1750 (hardrockbet_fl) | 0.2 | 0 | 0/1 | 9% | 6% | 3% | +0.65 | only 1 game this season |
-| 33 | Noah Fant (TE, NO vs MIN) | anytime_td | over 0.5 | +800 (draftkings) | 0.3 | 2, 0, 1, 0, 0 | 2/5 | 15% | 11% | 3% | +0.31 |  |
+| 1 | Scott Matlock (DT, LAC vs KC) | anytime_td | over 0.5 | +4000 (draftkings) | 0.4 | 0, 0, 1, 0 | 1/4 | 11% | 3% | 8% | +3.50 | only 0 games this season; huge gap vs market: check news/role |
+| 19 | Devin Singletary (RB, NYG vs NO) | anytime_td | over 0.5 | +750 (draftkings) | 0.3 | 0, 1, 1, 1, 0 | 3/5 | 16% | 11% | 5% | +0.39 | only 2 games this season |
+| 2 | Reggie Virgil (WR, ARI vs LA) | anytime_td | over 0.5 | +2200 (draftkings) | 0.2 | 0 | 0/1 | 9% | 4% | 4% | +1.01 | only 1 game this season |
+| 13 | Darius Cooper (WR, PHI vs CAR) | anytime_td | over 0.5 | +1300 (draftkings) | 0.2 | 1, 2, 0, 1, 0 | 3/5 | 11% | 7% | 4% | +0.50 |  |
+| 26 | Jawhar Jordan (RB, HOU vs JAX) | anytime_td | over 0.5 | +900 (draftkings) | 0.2 | 0, 0, 0, 0 | 0/4 | 13% | 10% | 4% | +0.30 | only 0 games this season |
+| 28 | Chris Rodriguez Jr. (RB, JAX vs HOU) | anytime_td | over 0.5 | +500 (draftkings) | 0.4 | 0, 1, 1, 0, 0 | 2/5 | 22% | 18% | 4% | +0.29 |  |
+| 74 | Colby Parkinson (TE, LA vs ARI) | anytime_td | over 0.5 | +450 (draftkings) | 0.3 | 0, 0, 0, 0, 2 | 1/5 | 21% | 18% | 3% | +0.18 |  |
+| 45 | Jaydon Blue (RB, DAL vs GB) | anytime_td | over 0.5 | +600 (draftkings) | 0.3 | 1, 0, 0, 0, 0 | 1/5 | 18% | 14% | 3% | +0.23 | only 0 games this season |
+| 27 | J.J. McCarthy (QB, NYG vs NO) | anytime_td | over 0.5 | +1100 (fanduel) | 0.2 | 0, 0, 1, 1, 0 | 2/5 | 11% | 8% | 3% | +0.30 | only 1 game this season |
+| 33 | Cody White (WR, LV vs BUF) | anytime_td | over 0.5 | +775 (betmgm) | 0.2 | 0, 0, 1, 2, 0 | 2/5 | 14% | 11% | 3% | +0.24 |  |
 
 ## Suggested cross-game parlays
 Built only from unflagged legs in different games, assuming independence. Fair = model's true odds; payout = what the book pays if you parlay the listed prices.
 
-1. #76 Emanuel Wilson under 1.5 receptions; #96 Elijah Higgins over 1.5 receptions; #114 Efton Chism III under 25.5 rec_yds. Hit 15%, fair +559, pays +923, EV +0.55
-2. #76 Emanuel Wilson under 1.5 receptions; #96 Elijah Higgins over 1.5 receptions; #115 Malik Washington under 4.5 receptions. Hit 14%, fair +609, pays +998, EV +0.55
-3. #76 Emanuel Wilson under 1.5 receptions; #96 Elijah Higgins over 1.5 receptions; #119 MarShawn Lloyd under 27.5 rush_yds. Hit 15%, fair +556, pays +914, EV +0.55
-4. #76 Emanuel Wilson under 1.5 receptions; #96 Elijah Higgins over 1.5 receptions; #126 MarShawn Lloyd under 29.5 rush_yds. Hit 16%, fair +540, pays +887, EV +0.54
-5. #76 Emanuel Wilson under 1.5 receptions; #114 Efton Chism III under 25.5 rec_yds; #115 Malik Washington under 4.5 receptions. Hit 17%, fair +481, pays +792, EV +0.53
-6. #76 Emanuel Wilson under 1.5 receptions; #114 Efton Chism III under 25.5 rec_yds; #119 MarShawn Lloyd under 27.5 rush_yds. Hit 19%, fair +438, pays +724, EV +0.53
-7. #76 Emanuel Wilson under 1.5 receptions; #96 Elijah Higgins over 1.5 receptions; #137 Cody White under 22.5 rec_yds. Hit 15%, fair +560, pays +910, EV +0.53
-8. #76 Emanuel Wilson under 1.5 receptions; #115 Malik Washington under 4.5 receptions; #119 MarShawn Lloyd under 27.5 rush_yds. Hit 17%, fair +478, pays +784, EV +0.53
+1. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #101 Jalon Daniels under 36.5 rush_yds. Hit 11%, fair +818, pays +1448, EV +0.69
+2. #32 Dallas Goedert over 0.5 anytime_td; #83 MarShawn Lloyd under 42.5 rush_yds; #101 Jalon Daniels under 36.5 rush_yds. Hit 11%, fair +824, pays +1448, EV +0.68
+3. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #110 Woody Marks under 45.5 rush_yds. Hit 11%, fair +809, pays +1422, EV +0.67
+4. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #120 Kendre Miller under 33.5 rush_yds. Hit 11%, fair +829, pays +1448, EV +0.67
+5. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #118 Omarion Hampton over 0.5 anytime_td. Hit 5%, fair +1742, pays +2967, EV +0.67
+6. #32 Dallas Goedert over 0.5 anytime_td; #83 MarShawn Lloyd under 42.5 rush_yds; #110 Woody Marks under 45.5 rush_yds. Hit 11%, fair +815, pays +1422, EV +0.66
+7. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #128 Kendre Miller under 34.5 rush_yds. Hit 11%, fair +815, pays +1422, EV +0.66
+8. #32 Dallas Goedert over 0.5 anytime_td; #75 MarShawn Lloyd under 43.5 rush_yds; #133 Jalon Daniels under 35.5 rush_yds. Hit 11%, fair +818, pays +1422, EV +0.66
 
 ## Not scored
-- Dallen Bentley anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Baltimore Ravens Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New York Giants D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Denver Broncos D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Kylen Granson anytime_td 0.5: team not on this week's slate (bye or traded?)
-- New England Patriots Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Minnesota Vikings D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Baltimore Ravens D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Salvon Ahmed anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Pittsburgh Steelers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Cincinnati Bengals D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Pierre Strong Jr. anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New Orleans Saints D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- James Jordan anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Tennessee Titans D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Robert Henry Jr. anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Los Angeles Chargers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Seattle Seahawks D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Houston Texans D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Indianapolis Colts Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Chicago Bears D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Reggie Virgil anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Drew Ogletree anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Denver Broncos Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Washington Commanders D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Tim Patrick anytime_td 0.5: team not on this week's slate (bye or traded?)
-- Chicago Bears Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Atlanta Falcons D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Zonovan Knight anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Arizona Cardinals D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Green Bay Packers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Tanner Arkin anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - Arizona Cardinals Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Miami Dolphins D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Washington Commanders Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- San Francisco 49ers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Indianapolis Colts D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Cincinnati Bengals Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Cleveland Browns Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Carlos Washington Jr. anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Los Angeles Chargers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Seydou Traore anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Atlanta Falcons Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Miami Dolphins Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Houston Texans Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Michael Carter anytime_td 0.5: team not on this week's slate (bye or traded?)
-- San Francisco 49ers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New York Jets D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Nick Vannett anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Los Angeles Rams Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Eli Stowers anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - Green Bay Packers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Las Vegas Raiders Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New York Jets Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Seattle Seahawks Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Cleveland Browns D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Houston Texans D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Arizona Cardinals D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - Las Vegas Raiders D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Detroit Lions D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Indianapolis Colts Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Camden Brown anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Green Bay Packers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Cleveland Browns Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Tampa Bay Buccaneers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Chicago Bears Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - Tennessee Titans Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New York Giants Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Zonovan Knight anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Shawn Bowman anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Los Angeles Chargers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Tennessee Titans D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New York Jets Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- CJ Williams anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Baltimore Ravens Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Dallas Cowboys D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - New England Patriots D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- New Orleans Saints Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Jack Endries anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Minnesota Vikings Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
-- Detroit Lions Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Atlanta Falcons D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Jacksonville Jaguars Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
 - Pittsburgh Steelers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Los Angeles Rams D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Carolina Panthers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Kansas City Chiefs Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Houston Texans Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Drew Ogletree anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Philadelphia Eagles Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Carolina Panthers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Chicago Bears D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Tanner Koziol anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Las Vegas Raiders Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Atlanta Falcons Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Kansas City Chiefs D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Brandon Smith anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Dallas Cowboys Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Nick Vannett anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Philadelphia Eagles D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New England Patriots Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Indianapolis Colts D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Los Angeles Chargers D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Baltimore Ravens D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New Orleans Saints Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Max Klare anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Buffalo Bills D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Cleveland Browns D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Buffalo Bills Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Audric Estime anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New Orleans Saints D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Jacksonville Jaguars D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Joshua Palmer anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New York Giants D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Pittsburgh Steelers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- CJ Daniels anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New York Giants Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Tampa Bay Buccaneers Defense anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- Hollywood Brown anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
+- New York Jets D/ST anytime_td 0.5: no stats match (rookie with no games, or name mismatch)
