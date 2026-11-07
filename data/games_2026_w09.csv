@@ -1,0 +1,40 @@
+home,away,book,commence,ml_home,ml_away,spread_home,spread_home_odds,spread_away,spread_away_odds,total,over_odds,under_odds
+Atlanta Falcons,Cincinnati Bengals,draftkings,2026-11-08T14:30:00Z,145,-175,3.0,100,-3.0,-120,52.5,-108,-112
+Atlanta Falcons,Cincinnati Bengals,fanduel,2026-11-08T14:30:00Z,140,-166,3.0,100,-3.0,-120,52.5,-110,-110
+Atlanta Falcons,Cincinnati Bengals,betmgm,2026-11-08T14:30:00Z,145,-175,3.5,-118,-3.5,100,52.5,-108,-110
+Carolina Panthers,Denver Broncos,draftkings,2026-11-08T18:00:00Z,120,-142,2.5,100,-2.5,-120,44.5,-108,-112
+Carolina Panthers,Denver Broncos,fanduel,2026-11-08T18:00:00Z,124,-146,2.5,100,-2.5,-120,44.5,-115,-105
+Carolina Panthers,Denver Broncos,betmgm,2026-11-08T18:00:00Z,125,-150,2.5,-102,-2.5,-118,44.5,-110,-108
+New Orleans Saints,Cleveland Browns,draftkings,2026-11-08T18:00:00Z,-166,140,-3.0,-120,3.0,100,42.5,-108,-112
+New Orleans Saints,Cleveland Browns,fanduel,2026-11-08T18:00:00Z,-168,142,-3.0,-115,3.0,-105,42.5,-110,-110
+New Orleans Saints,Cleveland Browns,betmgm,2026-11-08T18:00:00Z,-175,140,-3.0,-118,3.0,-102,42.5,-108,-110
+Indianapolis Colts,Dallas Cowboys,draftkings,2026-11-08T18:00:00Z,185,-225,5.5,-115,-5.5,-105,51.5,-112,-108
+Indianapolis Colts,Dallas Cowboys,fanduel,2026-11-08T18:00:00Z,184,-220,4.5,-110,-4.5,-110,51.5,-110,-110
+Indianapolis Colts,Dallas Cowboys,betmgm,2026-11-08T18:00:00Z,185,-225,4.5,-110,-4.5,-108,51.5,-110,-108
+Miami Dolphins,Detroit Lions,draftkings,2026-11-08T18:00:00Z,250,-310,6.5,-102,-6.5,-118,49.5,-122,102
+Miami Dolphins,Detroit Lions,fanduel,2026-11-08T18:00:00Z,240,-295,6.5,-110,-6.5,-110,49.5,-120,100
+Miami Dolphins,Detroit Lions,betmgm,2026-11-08T18:00:00Z,240,-300,6.5,-108,-6.5,-110,50.0,-108,-110
+Kansas City Chiefs,New York Jets,draftkings,2026-11-08T18:00:00Z,-535,400,-9.5,-118,9.5,-102,48.5,-102,-118
+Kansas City Chiefs,New York Jets,fanduel,2026-11-08T18:00:00Z,-520,400,-9.5,-115,9.5,-105,47.5,-110,-110
+Kansas City Chiefs,New York Jets,betmgm,2026-11-08T18:00:00Z,-500,400,-9.5,-108,9.5,-110,48.0,-108,-110
+Washington Commanders,Los Angeles Rams,draftkings,2026-11-08T18:00:00Z,195,-238,4.5,100,-4.5,-120,47.5,-112,-108
+Washington Commanders,Los Angeles Rams,fanduel,2026-11-08T18:00:00Z,194,-235,4.5,-105,-4.5,-115,47.5,-115,-105
+Washington Commanders,Los Angeles Rams,betmgm,2026-11-08T18:00:00Z,190,-235,5.0,-110,-5.0,-108,48.0,-105,-112
+Philadelphia Eagles,New York Giants,draftkings,2026-11-08T18:00:00Z,136,-162,3.0,100,-3.0,-120,38.5,-112,-108
+Philadelphia Eagles,New York Giants,fanduel,2026-11-08T18:00:00Z,140,-166,3.0,100,-3.0,-120,38.5,-105,-115
+Philadelphia Eagles,New York Giants,betmgm,2026-11-08T18:00:00Z,135,-160,3.0,-102,-3.0,-118,38.5,-108,-110
+Los Angeles Chargers,Houston Texans,draftkings,2026-11-08T21:05:00Z,200,-245,6.0,-112,-6.0,-108,40.5,-110,-110
+Los Angeles Chargers,Houston Texans,fanduel,2026-11-08T21:05:00Z,198,-240,5.5,-110,-5.5,-110,40.5,-115,-105
+Los Angeles Chargers,Houston Texans,betmgm,2026-11-08T21:05:00Z,200,-235,6.0,-112,-6.0,-105,40.5,-110,-108
+San Francisco 49ers,Las Vegas Raiders,draftkings,2026-11-08T21:05:00Z,-485,370,-9.5,-115,9.5,-105,51.5,-120,100
+San Francisco 49ers,Las Vegas Raiders,fanduel,2026-11-08T21:05:00Z,-480,370,-9.5,-110,9.5,-110,51.5,-120,100
+San Francisco 49ers,Las Vegas Raiders,betmgm,2026-11-08T21:05:00Z,-475,360,-9.5,-110,9.5,-108,52.0,-108,-110
+Seattle Seahawks,Arizona Cardinals,draftkings,2026-11-08T21:25:00Z,-455,350,-8.5,-110,8.5,-110,39.5,-112,-108
+Seattle Seahawks,Arizona Cardinals,fanduel,2026-11-08T21:25:00Z,-450,350,-8.5,-110,8.5,-110,39.5,-110,-110
+Seattle Seahawks,Arizona Cardinals,betmgm,2026-11-08T21:25:00Z,-425,320,-8.5,-108,8.5,-110,39.5,-110,-108
+New England Patriots,Green Bay Packers,draftkings,2026-11-08T21:25:00Z,-170,142,-3.0,-115,3.0,-105,44.5,-115,-105
+New England Patriots,Green Bay Packers,fanduel,2026-11-08T21:25:00Z,-164,138,-3.0,-110,3.0,-110,44.5,-110,-110
+New England Patriots,Green Bay Packers,betmgm,2026-11-08T21:25:00Z,-175,140,-3.0,-110,3.0,-108,44.5,-110,-108
+Chicago Bears,Tampa Bay Buccaneers,draftkings,2026-11-09T01:20:00Z,-278,225,-6.0,-110,6.0,-110,47.5,-105,-115
+Chicago Bears,Tampa Bay Buccaneers,fanduel,2026-11-09T01:20:00Z,-270,220,-6.5,-105,6.5,-115,47.5,-110,-110
+Chicago Bears,Tampa Bay Buccaneers,betmgm,2026-11-09T01:20:00Z,-275,220,-6.0,-110,6.0,-108,47.5,-108,-110
